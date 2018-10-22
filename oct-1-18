@@ -1,204 +1,389 @@
 #EXTM3U
-#EXTINF:-1,beIN SPORTS NEWS
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/171.ts
-#EXTINF:-1,beIN SPORTS 1HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/173.ts
-#EXTINF:-1,beIN SPORTS 2HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/174.ts
-#EXTINF:-1,beIN SPORTS 3HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/175.ts
-#EXTINF:-1,beIN SPORTS 4HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/176.ts
-#EXTINF:-1,beIN SPORTS 5HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/177.ts
-#EXTINF:-1,beIN SPORTS 6HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/178.ts
-#EXTINF:-1,beIN SPORTS 7HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/179.ts
-#EXTINF:-1,beIN SPORTS 8HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/180.ts
-#EXTINF:-1,beIN SPORTS 9HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/181.ts
-#EXTINF:-1,beIN SPORTS 10HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/182.ts
-#EXTINF:-1,beIN SPORTS 11 HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/183.ts
-#EXTINF:-1,beIN SPORTS 12 HD 1080
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/184.ts
-#EXTINF:-1,WWE HD
-http://osniptv.homeip.net:25461/live/dokpal/cisco2006/142.ts
+#EXTINF:-1,AR_Bn_Sport_1_B2
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/528.ts
+#EXTINF:-1,AR_Bn_Sport_2_B2
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/529.ts
+#EXTINF:-1,AR_Bn_Sport_3_B2
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/530.ts
+#EXTINF:-1,AR_Bn_Sport_4_B2
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/531.ts
+#EXTINF:-1,AR_Bn_Sport_5_B2
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/532.ts
+#EXTINF:-1,AR_Bn_Sport_6_B2
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/533.ts
+#EXTINF:-1,AR_Bn_Sport_7_B2
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/534.ts
+#EXTINF:-1,AR_Bn_Sport_8_B2
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/535.ts
+#EXTINF:-1,AR_Bn_Sport_9_B2
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/536.ts
+#EXTINF:-1,AR_Bn_Sport_10_B2
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/537.ts
+#EXTINF:-1,AR_Bn_Sport_11_B2
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/717.ts
+#EXTINF:-1,AR: beIN SPORTS 10 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/10783.ts
+#EXTINF:-1,AR: beIN SPORTS 11 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/10782.ts
+#EXTINF:-1,AR: beIN SPORTS 12 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/10784.ts
+#EXTINF:-1,AR: beIN SPORTS 9 HD
+http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/10785.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="########## United Kingdom ##########" tvg-logo="http://pici.life/ukcn.png" group-title="United Kingdom",########## United Kingdom ##########
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6668.ts
+#EXTINF:-1 tvg-id="" tvg-name="------- UK Sports -------" tvg-logo="" group-title="United Kingdom",------- UK Sports -------
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15576.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 FHD UK" tvg-logo="http://pici.life/uk/SkySportsF1.uk.png" group-title="United Kingdom",Sky Sports F1 FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6535.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 HD UK" tvg-logo="https://pici.life/lg/UK/Sky%20Sports%20F1%20HD%20UK.png" group-title="United Kingdom",Sky Sports F1 HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15708.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 UK" tvg-logo="http://pici.life/uk/SkySportsF1.uk.png" group-title="United Kingdom",Sky Sports F1 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6536.ts
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix HD UK" tvg-logo="http://pici.life/uk/SkySportsMix.uk.png" group-title="United Kingdom",Sky Sports Mix HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7925.ts
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix UK" tvg-logo="http://pici.life/uk/SkySportsMix.uk.png" group-title="United Kingdom",Sky Sports Mix UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6534.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports News FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15702.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HD UK" tvg-logo="https://pici.life/lg/UK/Sky-Sports-News-HD%20UK.png" group-title="United Kingdom",Sky Sports News HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15701.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News UK" tvg-logo="http://pici.life/uk/SkySportsNews.uk.png" group-title="United Kingdom",Sky Sports News UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6533.ts
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action FHD UK" tvg-logo="http://pici.life/skysportsaction.png" group-title="United Kingdom",Sky Sports Action FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7920.ts
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action HD UK" tvg-logo="http://pici.life/uk/SkySportsAction.uk.png" group-title="United Kingdom",Sky Sports Action HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7927.ts
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Arena FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15710.ts
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena HD UK" tvg-logo="http://pici.life/uk/SkySportsArena.uk.png" group-title="United Kingdom",Sky Sports Arena HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7926.ts
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports cricket FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports cricket FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15709.ts
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket HD UK" tvg-logo="http://pici.life/skysportscricket.png" group-title="United Kingdom",Sky Sports Cricket HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7929.ts
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket UK" tvg-logo="http://pici.life/uk/SkySportsCricket.uk.png" group-title="United Kingdom",Sky Sports Cricket UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/79221.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football UK" tvg-logo="" group-title="United Kingdom",Sky Sports Football UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/53165.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football HD UK" tvg-logo="http://pici.life/skysportsfootball.png" group-title="United Kingdom",Sky Sports Football HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/625255.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Football FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/625258.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Golf FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15705.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf UK" tvg-logo="https://pici.life/lg/UK/Sky%20Sports%20Golf_%20UK.png" group-title="United Kingdom",Sky Sports Golf UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/9536.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf HD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Golf HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15704.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Main Event FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15703.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD UK" tvg-logo="http://pici.life/skysportsmainevet.png" group-title="United Kingdom",Sky Sports Main Event HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7932.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event UK" tvg-logo="http://pici.life/uk/SkySportsMainEvent.uk.png" group-title="United Kingdom",Sky Sports Main Event UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/53277.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League FHD UK" tvg-logo="http://pici.life/uk/SkySportsPremiereLeague.uk.png" group-title="United Kingdom",Sky Sports Premier League FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7923.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League HD UK" tvg-logo="http://pici.life/skysport1.png" group-title="United Kingdom",Sky Sports Premier League HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7931.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League UK" tvg-logo="https://pici.life/lg/UK/Sky%20Sports%20Premier%20League%20UK.png" group-title="United Kingdom",Sky Sports Premier League UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15700.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports The Open FHD UK" tvg-logo="http://pici.life/skysportstheopen.png" group-title="United Kingdom",Sky Sports The Open FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7928.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports The Open UK" tvg-logo="http://pici.life/uk/SkySportsTheOpen.uk.png" group-title="United Kingdom",Sky Sports The Open UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/625251.ts
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-name="Sky Sports Box Office (Live During Events Only) UK" tvg-logo="" group-title="United Kingdom",Sky Sports Box Office (Live During Events Only) UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/625252.ts
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-name="Sky Box Office Sport FHD UK" tvg-logo="" group-title="United Kingdom",Sky Box Office Sport FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15828.ts
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="Premier Sports HD UK" tvg-logo="http://pici.life/premiersports.png" group-title="United Kingdom",Premier Sports HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7915.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eir Sport 1 UK" tvg-logo="https://pici.life/lg/UK/EIR Sport 1 UK.png" group-title="United Kingdom",Eir Sport 1 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6612.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eir Sport 2 UK" tvg-logo="https://pici.life/lg/UK/EIR%20Sport%202%20UK.png" group-title="United Kingdom",Eir Sport 2 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6611.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN UK" tvg-logo="" group-title="United Kingdom",ESPN UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6610.ts
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1 UK" tvg-logo="http://pici.life/uk/Eurosport1.uk.png" group-title="United Kingdom",Eurosport 1 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6609.ts
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2 UK" tvg-logo="http://pici.life/uk/Eurosport2.uk.png" group-title="United Kingdom",Eurosport 2 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6608.ts
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="Premier Sports 2 UK" tvg-logo="http://pici.life/uk/PremierSports.uk.png" group-title="United Kingdom",Premier Sports 2 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6568.ts
+#EXTINF:-1 tvg-id="MotorsTV.uk" tvg-name="Motors TV HD UK" tvg-logo="http://pici.life/uk/MotorsTV.uk.png" group-title="United Kingdom",Motors TV HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6580.ts
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV FHD UK" tvg-logo="" group-title="United Kingdom",MUTV FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/12852.ts
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV HD UK" tvg-logo="https://pici.life/lg/UK/MUTV%20HD%20UK.png" group-title="United Kingdom",MUTV HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6582.ts
+#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="Liverpool FC UK" tvg-logo="http://pici.life/uk/LiverpoolFCTV.uk.png" group-title="United Kingdom",Liverpool FC UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6584.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rangers FC TV (Live for Matches) UK" tvg-logo="http://pici.life/rangerstvuk.png" group-title="United Kingdom",Rangers FC TV (Live for Matches) UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7826.ts
+#EXTINF:-1 tvg-id="" tvg-name="Celtic FC TV  FHD (Live for Matches) UK" tvg-logo="http://pici.life/celtictv.png" group-title="United Kingdom",Celtic FC TV  FHD (Live for Matches) UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7825.ts
+#EXTINF:-1 tvg-id="ChelseaTV.uk" tvg-name="Chelsea TV HD UK" tvg-logo="https://pici.life/lg/UK/Chelsea%20TV%20UK.png" group-title="United Kingdom",Chelsea TV HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15772.ts
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD UK" tvg-logo="http://pici.life/uk/BTSport1.uk.png" group-title="United Kingdom",BT Sport 1 HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6649.ts
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sports 1 UK" tvg-logo="http://pici.life/uk/BTSport1.uk.png" group-title="United Kingdom",BT Sports 1 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6646.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 2 UK" tvg-logo="http://pici.life/uk/BTSport2.uk.png" group-title="United Kingdom",BT Sports 2 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/66532.ts
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 FHD UK" tvg-logo="http://pici.life/uk/BTSport2.uk.png" group-title="United Kingdom",BT Sport 2 FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/66753.ts
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sports 3 FHD UK" tvg-logo="http://pici.life/uk/BTSport3.uk.png" group-title="United Kingdom",BT Sports 3 FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6647.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 3 UK" tvg-logo="http://pici.life/uk/BTSport3.uk.png" group-title="United Kingdom",BT Sports 3 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6644.ts
+#EXTINF:-1 tvg-id="BTSportX1.uk" tvg-name="BT Sport Extra 1 UK" tvg-logo="http://pici.life/uk/BTSportX1.uk.png" group-title="United Kingdom",BT Sport Extra 1 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6641.ts
+#EXTINF:-1 tvg-id="BTSportX2.uk" tvg-name="BT Sport Extra 2 UK" tvg-logo="http://pici.life/uk/BTSportX2.uk.png" group-title="United Kingdom",BT Sport Extra 2 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6640.ts
+#EXTINF:-1 tvg-id="BTSportX3.uk" tvg-name="BT Sport Extra 3 UK" tvg-logo="http://pici.life/btsport3extra.png" group-title="United Kingdom",BT Sport Extra 3 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7918.ts
+#EXTINF:-1 tvg-id="BTSportX4.uk" tvg-name="BT Sport Extra 4 UK" tvg-logo="http://pici.life/btsport4extra.png" group-title="United Kingdom",BT Sport Extra 4 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7917.ts
+#EXTINF:-1 tvg-id="BTSportX5.uk" tvg-name="BT Sport Extra 5 UK" tvg-logo="http://pici.life/btsportextra.png" group-title="United Kingdom",BT Sport Extra 5 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7916.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Europe UK" tvg-logo="" group-title="United Kingdom",BT Sport Europe UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6642.ts
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport ESPN HD UK" tvg-logo="" group-title="United Kingdom",BT Sport ESPN HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15738.ts
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport ESPN UK" tvg-logo="http://pici.life/uk/BTSportESPN.uk.png" group-title="United Kingdom",BT Sport ESPN UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6643.ts
+#EXTINF:-1 tvg-id="AtTheRaces.uk" tvg-name="At The Races UK" tvg-logo="http://pici.life/uk/AtTheRaces.uk.png" group-title="United Kingdom",At The Races UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6661.ts
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1 HD UK" tvg-logo="" group-title="United Kingdom",Eurosport 1 HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15736.ts
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2 HD UK" tvg-logo="" group-title="United Kingdom",Eurosport 2 HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15735.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 FHD UK" tvg-logo="" group-title="United Kingdom",Eleven Sports 1 FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/53155.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 FHD UK" tvg-logo="" group-title="United Kingdom",Eleven Sports 2 FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/53154.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports LA LIGA FHD UK" tvg-logo="" group-title="United Kingdom",Eleven Sports LA LIGA FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/53153.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports UK" tvg-logo="" group-title="United Kingdom",Fight Sports UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15747.ts
+#EXTINF:-1 tvg-id="" tvg-name="------- UK Movies -------" tvg-logo="" group-title="United Kingdom",------- UK Movies -------
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15575.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Action UK" tvg-logo="http://pici.life/uk/SkyAction.uk.png" group-title="United Kingdom",Sky Movies Action UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6558.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Comedy UK" tvg-logo="http://pici.life/uk/SkyComedy.uk.png" group-title="United Kingdom",Sky Movies Comedy UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6557.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Drama UK" tvg-logo="http://pici.life/uk/SkyDrama.uk.png" group-title="United Kingdom",Sky Movies Drama UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6556.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Family UK" tvg-logo="http://pici.life/uk/SkyFamily.uk.png" group-title="United Kingdom",Sky Movies Family UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6555.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Modern Greats UK" tvg-logo="http://pici.life/uk/SkyGreats.uk.png" group-title="United Kingdom",Sky Movies Modern Greats UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6554.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Premiere UK" tvg-logo="http://pici.life/uk/SkyPremiere.uk.png" group-title="United Kingdom",Sky Movies Premiere UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6553.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Scifi Horror UK" tvg-logo="http://pici.life/uk/SkySciFiHorror.uk.png" group-title="United Kingdom",Sky Movies Scifi Horror UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6552.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Select UK" tvg-logo="http://pici.life/uk/SkySelect.uk.png" group-title="United Kingdom",Sky Movies Select UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6551.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Showcase UK" tvg-logo="http://pici.life/uk/Showcase.uk.png" group-title="United Kingdom",Sky Movies Showcase UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6550.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Thriller UK" tvg-logo="http://pici.life/uk/SkyCrimeThriller.uk.png" group-title="United Kingdom",Sky Movies Thriller UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6549.ts
+#EXTINF:-1 tvg-id="Showcase.uk" tvg-name="Movies Showcase UK" tvg-logo="http://pici.life/lg/UK/showcase.png" group-title="United Kingdom",Movies Showcase UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15904.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Box Office 3D UK" tvg-logo="" group-title="United Kingdom",Sky Cinema Box Office 3D UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/13849.ts
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="Sky Witness UK" tvg-logo="http://pici.life/skyliving.png" group-title="United Kingdom",Sky Witness UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7912.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Witness +1 UK" tvg-logo="" group-title="United Kingdom",Sky Witness +1 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15692.ts
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="Sky Witness HD UK" tvg-logo="http://pici.life/uk/SkyLiving.uk.png" group-title="United Kingdom",Sky Witness HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6559.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky One UK" tvg-logo="" group-title="United Kingdom",Sky One UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6547.ts
+#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="True Movies UK" tvg-logo="http://pici.life/uk/TrueMovies.uk.png" group-title="United Kingdom",True Movies UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6524.ts
+#EXTINF:-1 tvg-id="" tvg-name="True Movies 2 UK" tvg-logo="http://pici.life/uk/TrueMovies.uk.png" group-title="United Kingdom",True Movies 2 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6523.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movies 4 Men UK" tvg-logo="http://pici.life/uk/Movies4Men.uk.png" group-title="United Kingdom",Movies 4 Men UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6579.ts
+#EXTINF:-1 tvg-id="Movies4Men.uk" tvg-name="Movies4Men +1 UK" tvg-logo="http://pici.life/lg/UK/movies4menplus1.png" group-title="United Kingdom",Movies4Men +1 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15820.ts
+#EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="Sony Movies UK" tvg-logo="" group-title="United Kingdom",Sony Movies UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/9528.ts
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film 4 UK" tvg-logo="http://pici.life/uk/Film4.uk.png" group-title="United Kingdom",Film 4 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6607.ts
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film 4 HD UK" tvg-logo="" group-title="United Kingdom",Film 4 HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15746.ts
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="TCM HD UK" tvg-logo="" group-title="United Kingdom",TCM HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/9511.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD English Lang UK" tvg-logo="" group-title="United Kingdom",TCM HD English Lang UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/9510.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Box Office 1 FHD UK" tvg-logo="" group-title="United Kingdom",Sky Cinema Box Office 1 FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15878.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Box Office 2 FHD UK" tvg-logo="" group-title="United Kingdom",Sky Cinema Box Office 2 FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15879.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Box Office 4 FHD UK" tvg-logo="" group-title="United Kingdom",Sky Cinema Box Office 4 FHD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15893.ts
+#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="Sky Movies Action & Adventure HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Action & Adventure HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15720.ts
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="Sky Movies Comedy HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Comedy HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15719.ts
+#EXTINF:-1 tvg-id="SkyDisney.uk" tvg-name="Sky Movies Disney HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Disney HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15717.ts
+#EXTINF:-1 tvg-id="SkyDrama.uk" tvg-name="Sky Movies Drama & Romance HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Drama & Romance HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15716.ts
+#EXTINF:-1 tvg-id="SkyFamily.uk" tvg-name="Sky Movies Family HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Family HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15715.ts
+#EXTINF:-1 tvg-id="SkyPremierePlus1.uk" tvg-name="Sky Movies Premiere +1 HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Premiere +1 HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15714.ts
+#EXTINF:-1 tvg-id="SkyPremiere.uk" tvg-name="Sky Movies Premiere HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Premiere HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15713.ts
+#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="Sky Movies Sci-Fi & Horror HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Sci-Fi & Horror HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15712.ts
+#EXTINF:-1 tvg-id="SkySelect.uk" tvg-name="Sky Movies Select HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Select HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15711.ts
+#EXTINF:-1 tvg-id="SkyCrimeThriller.uk" tvg-name="Sky Movies Thriller HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Thriller HD UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15718.ts
+#EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="Sony Movies +1 UK" tvg-logo="http://pici.life/lg/UK/sonymoviesplus1.png" group-title="United Kingdom",Sony Movies +1 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15896.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM +1 UK" tvg-logo="http://pici.life/lg/UK/tcmplus1.png" group-title="United Kingdom",TCM +1 UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15882.ts
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="TCM UK" tvg-logo="http://pici.life/lg/UK/tcm.png" group-title="United Kingdom",TCM UK
+http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15883.ts
+#EXTINF:-1 tvg-id="" tvg-name="True Movies +1 UK" tvg-logo="http://pici.life/lg/UK/truemovies.png" group-title="United Kingdom",True Movies +1 UK
+#EXTM3U
+#EXTINF:-1 tvg-ID="News_ar" tvg-name="Beln-Sport News HD" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-News_o.jpg" group-title="bEIN SPORT HD",Beln-Sport News HD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/30.ts
+#EXTINF:-1 tvg-ID="HD1" tvg-name="Beln-Sport 1 4K" tvg-logo="" group-title="bEIN SPORT HD 4K",Beln-Sport 1 4K
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4774.ts
+#EXTINF:-1 tvg-ID="HD2" tvg-name="Beln-Sport 2 4K" tvg-logo="" group-title="bEIN SPORT HD 4K",Beln-Sport 2 4K
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4775.ts
+#EXTINF:-1 tvg-ID="HD3" tvg-name="Beln-Sport 3 4K" tvg-logo="" group-title="bEIN SPORT HD 4K",Beln-Sport 3 4K
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4776.ts
+#EXTINF:-1 tvg-ID="HD4" tvg-name="Beln-Sport 4 4K" tvg-logo="" group-title="bEIN SPORT HD 4K",Beln-Sport 4 4K
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4777.ts
+#EXTINF:-1 tvg-ID="HD5" tvg-name="Beln-Sport 5 4K" tvg-logo="" group-title="bEIN SPORT HD 4K",Beln-Sport 5 4K
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4778.ts
+#EXTINF:-1 tvg-ID="HD6" tvg-name="Beln-Sport 6 4K" tvg-logo="" group-title="bEIN SPORT HD 4K",Beln-Sport 6 4K
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4779.ts
+#EXTINF:-1 tvg-ID="HD7" tvg-name="Beln-Sport 7 4K" tvg-logo="" group-title="bEIN SPORT HD 4K",Beln-Sport 7 4K
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4780.ts
+#EXTINF:-1 tvg-ID="HD8" tvg-name="Beln-Sport 8 4K" tvg-logo="" group-title="bEIN SPORT HD 4K",Beln-Sport 8 4K
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4781.ts
+#EXTINF:-1 tvg-ID="HD9" tvg-name="Beln-Sport 9 4K" tvg-logo="" group-title="bEIN SPORT HD 4K",Beln-Sport 9 4K
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4782.ts
+#EXTINF:-1 tvg-ID="OlympicChannel" tvg-name="Beln-Sport 10 4K" tvg-logo="" group-title="bEIN SPORT HD 4K",Beln-Sport 10 4K
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4783.ts
+#EXTINF:-1 tvg-ID="HD1" tvg-name="Beln-Sport 1 FULL HD 1080P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-1-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 1 FULL HD 1080P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/1980.ts
+#EXTINF:-1 tvg-ID="HD2" tvg-name="Beln-Sport 2 FULL HD 1080P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-2-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 2 FULL HD 1080P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/1979.ts
+#EXTINF:-1 tvg-ID="HD3" tvg-name="Beln-Sport 3 FULL HD 1080P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-3-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 3 FULL HD 1080P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/1981.ts
+#EXTINF:-1 tvg-ID="HD4" tvg-name="Beln-Sport 4 FULL HD 1080P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-3-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 4 FULL HD 1080P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/1977.ts
+#EXTINF:-1 tvg-ID="HD5" tvg-name="Beln-Sport 5 FULL HD 1080P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-5-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 5 FULL HD 1080P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/1976.ts
+#EXTINF:-1 tvg-ID="HD6" tvg-name="Beln-Sport 6 FULL HD 1080P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-6-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 6 FULL HD 1080P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/1975.ts
+#EXTINF:-1 tvg-ID="HD7" tvg-name="Beln-Sport 7 FULL HD 1080P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-7-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 7 FULL HD 1080P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/1974.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Beln-Sport 8 FULL HD 1080P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-8-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 8 FULL HD 1080P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/1973.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Beln-Sport 9 FULL HD 1080P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-9-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 9 FULL HD 1080P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/1978.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Beln-Sport 10 FULL HD 1080P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-10-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 10 FULL HD 1080P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/1972.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Beln-Sport 11 FULL HD 1080P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-11-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 11 FULL HD 1080P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/41.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Beln-Sport 12 FULL HD 1080P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-12-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 12 FULL HD 1080P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/42.ts
+#EXTINF:-1 tvg-ID="SportsHD13" tvg-name="Beln-Sport 13 FULL HD 1080P" tvg-logo="" group-title="bEIN SPORT HD",Beln-Sport 13 FULL HD 1080P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4724.ts
+#EXTINF:-1 tvg-ID="SportsHD14" tvg-name="Beln-Sport 14 FULL HD 1080P" tvg-logo="" group-title="bEIN SPORT HD",Beln-Sport 14 FULL HD 1080P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4725.ts
+#EXTINF:-1 tvg-ID="SportsHD15" tvg-name="Beln-Sport 15 FULL HD 1080P" tvg-logo="" group-title="bEIN SPORT HD",Beln-Sport 15 FULL HD 1080P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4726.ts
+#EXTINF:-1 tvg-ID="SportsHD16" tvg-name="Beln-Sport 16 FULL HD 1080P" tvg-logo="" group-title="bEIN SPORT HD",Beln-Sport 16 FULL HD 1080P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4727.ts
+#EXTINF:-1 tvg-ID="SportsHD17" tvg-name="Beln-Sport 17 FULL HD 1080P" tvg-logo="" group-title="bEIN SPORT HD",Beln-Sport 17 FULL HD 1080P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4728.ts
+#EXTINF:-1 tvg-ID="HD1" tvg-name="Beln-Sport 1 HD 720P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-1-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 1 HD 720P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/31.ts
+#EXTINF:-1 tvg-ID="HD2" tvg-name="Beln-Sport 2 HD 720P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-2-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 2 HD 720P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/32.ts
+#EXTINF:-1 tvg-ID="HD3" tvg-name="Beln-Sport 3 HD 720P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-3-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 3 HD 720P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/33.ts
+#EXTINF:-1 tvg-ID="HD4" tvg-name="Beln-Sport 4 HD 720P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-4-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 4 HD 720P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/2077.ts
+#EXTINF:-1 tvg-ID="HD5" tvg-name="Beln-Sport 5 HD 720P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-5-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 5 HD 720P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/35.ts
+#EXTINF:-1 tvg-ID="HD6" tvg-name="Beln-Sport 6 HD 720P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-6-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 6 HD 720P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/36.ts
+#EXTINF:-1 tvg-ID="HD7" tvg-name="Beln-Sport 7 HD 720P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-7-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 7 HD 720P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/37.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Beln-Sport 8 HD 720P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-8-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 8 HD 720P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/38.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Beln-Sport 9 HD 720P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-9-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 9 HD 720P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/39.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Beln-Sport 10 HD 720P" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-10-HD_o.jpg" group-title="bEIN SPORT HD",Beln-Sport 10 HD 720P
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/40.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Beln-Sport 11 FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="bEIN SPORT HD",Beln-Sport 11 FULL HD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/2639.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Beln-Sport 12 FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="bEIN SPORT HD",Beln-Sport 12 FULL HD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/2640.ts
+#EXTINF:-1 tvg-ID="HD1" tvg-name="Beln-Sport 1 SD" tvg-logo="" group-title="bEIN SPORT HD",Beln-Sport 1 SD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/640.ts
+#EXTINF:-1 tvg-ID="HD2" tvg-name="Beln-Sport 2 SD" tvg-logo="" group-title="bEIN SPORT HD",Beln-Sport 2 SD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/641.ts
+#EXTINF:-1 tvg-ID="HD3" tvg-name="Beln-Sport 3 SD" tvg-logo="" group-title="bEIN SPORT HD",Beln-Sport 3 SD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/642.ts
+#EXTINF:-1 tvg-ID="HD4" tvg-name="Beln-Sport 4 SD" tvg-logo="" group-title="bEIN SPORT HD",Beln-Sport 4 SD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/643.ts
+#EXTINF:-1 tvg-ID="HD5" tvg-name="Beln-Sport 5 SD" tvg-logo="" group-title="bEIN SPORT HD",Beln-Sport 5 SD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/644.ts
+#EXTINF:-1 tvg-ID="HD6" tvg-name="Beln-Sport 6 SD" tvg-logo="" group-title="bEIN SPORT HD",Beln-Sport 6 SD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/645.ts
+#EXTINF:-1 tvg-ID="HD7" tvg-name="Beln-Sport 7 SD" tvg-logo="" group-title="bEIN SPORT HD",Beln-Sport 7 SD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/646.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Beln-Sport 8 SD" tvg-logo="" group-title="bEIN SPORT HD",Beln-Sport 8 SD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/647.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Beln-Sport 9 SD" tvg-logo="" group-title="bEIN SPORT HD",Beln-Sport 9 SD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/648.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Beln-Sport 10 SD" tvg-logo="" group-title="bEIN SPORT HD",Beln-Sport 10 SD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/1997.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H265 - beIN SPORT 1" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-1-HD_o.jpg" group-title="beIN SPORT H265",H265 - beIN SPORT 1
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/339.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H265 - beIN SPORT 2" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-2-HD_o.jpg" group-title="beIN SPORT H265",H265 - beIN SPORT 2
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/340.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H265 - beIN SPORT 3" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-3-HD_o.jpg" group-title="beIN SPORT H265",H265 - beIN SPORT 3
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/341.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H265 - beIN SPORT 4" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-4-HD_o.jpg" group-title="beIN SPORT H265",H265 - beIN SPORT 4
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/342.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H265 - beIN SPORT 5" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-5-HD_o.jpg" group-title="beIN SPORT H265",H265 - beIN SPORT 5
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/343.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H265 - beIN SPORT 6" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-6-HD_o.jpg" group-title="beIN SPORT H265",H265 - beIN SPORT 6
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/344.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H265 - beIN SPORT 7" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-7-HD_o.jpg" group-title="beIN SPORT H265",H265 - beIN SPORT 7
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/345.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H265 - beIN SPORT 8" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-8-HD_o.jpg" group-title="beIN SPORT H265",H265 - beIN SPORT 8
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/346.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H265 - beIN SPORT 9" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-9-HD_o.jpg" group-title="beIN SPORT H265",H265 - beIN SPORT 9
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/347.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H265 - beIN SPORT 10" tvg-logo="https://www.sat-address.com/f/pics/Stations/BEIN-Sports-10-HD_o.jpg" group-title="beIN SPORT H265",H265 - beIN SPORT 10
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/348.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeoutQ Sport 1 HD" tvg-logo="" group-title="BeoutQ SPORTS",BeoutQ Sport 1 HD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4738.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeoutQ Sport 2 HD" tvg-logo="" group-title="BeoutQ SPORTS",BeoutQ Sport 2 HD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4739.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeoutQ Sport 3 HD" tvg-logo="" group-title="BeoutQ SPORTS",BeoutQ Sport 3 HD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4740.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeoutQ Sport 4 HD" tvg-logo="" group-title="BeoutQ SPORTS",BeoutQ Sport 4 HD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4741.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeoutQ Sport 5 HD" tvg-logo="" group-title="BeoutQ SPORTS",BeoutQ Sport 5 HD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4742.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeoutQ Sport 6 HD" tvg-logo="" group-title="BeoutQ SPORTS",BeoutQ Sport 6 HD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4743.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeoutQ Sport 7 HD" tvg-logo="" group-title="BeoutQ SPORTS",BeoutQ Sport 7 HD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4744.ts
 
-#EXTINF:-1,ARENA SPORT 1
-http://190.2.142.13:25461/live/primera_android/1122334455/311.ts
-#EXTINF:-1,ARENA SPORT 1 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/319.ts
-#EXTINF:-1,ARENA SPORT 2
-http://190.2.142.13:25461/live/primera_android/1122334455/310.ts
-#EXTINF:-1,ARENA SPORT 2 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/318.ts
-#EXTINF:-1,ARENA SPORT 3
-http://190.2.142.13:25461/live/primera_android/1122334455/309.ts
-#EXTINF:-1,ARENA SPORT 3 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/317.ts
-#EXTINF:-1,ARENA SPORT 4
-http://190.2.142.13:25461/live/primera_android/1122334455/308.ts
-#EXTINF:-1,ARENA SPORT 4 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/316.ts
-#EXTINF:-1,ARENA SPORT 5 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/315.ts
-#EXTINF:-1,EUROSPORT 1
-http://190.2.142.13:25461/live/primera_android/1122334455/307.ts
-#EXTINF:-1,EUROSPORT 2
-http://190.2.142.13:25461/live/primera_android/1122334455/306.ts
-
-#EXTINF:-1,DE: Eurosport 2 HD Xtra
-http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/5245.ts
-#EXTINF:-1,DE: Sky 1 HD
-http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/1028.ts
-#EXTINF:-1,DE: Sky Atlantic HD
-http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/1002.ts
-#EXTINF:-1,DE: DAZN 1 Bar HD
-http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/15586.ts
-#EXTINF:-1,DE: DAZN 2 Bar HD
-http://darealserver.ddns.net:8000/live/vusolo4k/JLzUqS0jUt/15587.ts
-
-#EXTINF:-1,BEIN-SPORT-1=LOW
-http://egyman.net:1978/live/22222/22222/4937.ts
-#EXTINF:-1,BEIN-SPORT-2=LOW
-http://egyman.net:1978/live/22222/22222/4936.ts
-#EXTINF:-1,BEIN-SPORT-3=LOW
-http://egyman.net:1978/live/22222/22222/4935.ts
-#EXTINF:-1,BEIN-SPORT-4=LOW
-http://egyman.net:1978/live/22222/22222/4934.ts
-#EXTINF:-1,BEIN-SPORT-5=LOW
-http://egyman.net:1978/live/22222/22222/4933.ts
-#EXTINF:-1,BEIN-SPORT-6=LOW
-http://egyman.net:1978/live/22222/22222/4932.ts
-#EXTINF:-1,BEIN-SPORT-7=LOW
-http://egyman.net:1978/live/22222/22222/4931.ts
-#EXTINF:-1,BEIN-SPORT-8=LOW
-http://egyman.net:1978/live/22222/22222/4930.ts
-#EXTINF:-1,BEIN-SPORT-9=LOW
-http://egyman.net:1978/live/22222/22222/4929.ts
-#EXTINF:-1,BEIN-SPORT-10=LOW
-http://egyman.net:1978/live/22222/22222/4928.ts
-#EXTINF:-1,BEIN-SPORT-1=512
-http://egyman.net:1978/live/22222/22222/2.ts
-#EXTINF:-1,BEIN-SPORT-2=512
-http://egyman.net:1978/live/22222/22222/3.ts
-#EXTINF:-1,BEIN-SPORT-3=512
-http://egyman.net:1978/live/22222/22222/4.ts
-#EXTINF:-1,BEIN-SPORT-4=512
-http://egyman.net:1978/live/22222/22222/6.ts
-#EXTINF:-1,BEIN-SPORT-5=512
-http://egyman.net:1978/live/22222/22222/7.ts
-#EXTINF:-1,BEIN-SPORT-6=512
-http://egyman.net:1978/live/22222/22222/8.ts
-#EXTINF:-1,BEIN-SPORT-7=512
-http://egyman.net:1978/live/22222/22222/9.ts
-#EXTINF:-1,BEIN-SPORT-8=512
-http://egyman.net:1978/live/22222/22222/10.ts
-#EXTINF:-1,BEIN-SPORT-9=512
-http://egyman.net:1978/live/22222/22222/11.ts
-#EXTINF:-1,BEIN-SPORT-10=512
-http://egyman.net:1978/live/22222/22222/12.ts
-#EXTINF:-1,BEIN-SPORT-1=SD
-http://egyman.net:1978/live/22222/22222/22.ts
-#EXTINF:-1,BEIN-SPORT-2=SD
-http://egyman.net:1978/live/22222/22222/21.ts
-#EXTINF:-1,BEIN-SPORT-3=SD
-http://egyman.net:1978/live/22222/22222/20.ts
-#EXTINF:-1,BEIN-SPORT-4=SD
-http://egyman.net:1978/live/22222/22222/19.ts
-#EXTINF:-1,BEIN-SPORT-5=SD
-http://egyman.net:1978/live/22222/22222/18.ts
-#EXTINF:-1,BEIN-SPORT-6=SD
-http://egyman.net:1978/live/22222/22222/17.ts
-#EXTINF:-1,BEIN-SPORT-7=SD
-http://egyman.net:1978/live/22222/22222/16.ts
-#EXTINF:-1,BEIN-SPORT-8=SD
-http://egyman.net:1978/live/22222/22222/15.ts
-#EXTINF:-1,BEIN-SPORT-9=SD
-http://egyman.net:1978/live/22222/22222/14.ts
-#EXTINF:-1,BEIN-SPORT-10=SD
-http://egyman.net:1978/live/22222/22222/13.ts
-#EXTINF:-1,BEIN-SPORT-1=HD
-http://egyman.net:1978/live/22222/22222/4555.ts
-#EXTINF:-1,BEIN-SPORT-2=HD
-http://egyman.net:1978/live/22222/22222/4554.ts
-#EXTINF:-1,BEIN-SPORT-3=HD
-http://egyman.net:1978/live/22222/22222/4553.ts
-#EXTINF:-1,BEIN-SPORT-5=HD
-http://egyman.net:1978/live/22222/22222/4551.ts
-#EXTINF:-1,BEIN-SPORT-6=HD
-http://egyman.net:1978/live/22222/22222/4550.ts
-#EXTINF:-1,BEIN-SPORT-7=HD
-http://egyman.net:1978/live/22222/22222/4549.ts
-#EXTINF:-1,BEIN-SPORT-8=HD
-http://egyman.net:1978/live/22222/22222/4548.ts
-#EXTINF:-1,BEIN-SPORT-9=HD
-http://egyman.net:1978/live/22222/22222/4547.ts
-#EXTINF:-1,BEIN-SPORT-10=HD
-http://egyman.net:1978/live/22222/22222/4546.ts
-#EXTINF:-1,BEIN-SPORT-1=FULL-HD
-http://egyman.net:1978/live/22222/22222/4885.ts
-#EXTINF:-1,BEIN-SPORT-2=FULL-HD
-http://egyman.net:1978/live/22222/22222/4884.ts
-#EXTINF:-1,BEIN-SPORT-3=FULL-HD
-http://egyman.net:1978/live/22222/22222/4883.ts
-#EXTINF:-1,BEIN-SPORT-4=FULL-HD
-http://egyman.net:1978/live/22222/22222/4882.ts
-#EXTINF:-1,BEIN-SPORT-4=HD
-http://egyman.net:1978/live/22222/22222/4552.ts
-#EXTINF:-1,BEIN-SPORT-5=FULL-HD
-http://egyman.net:1978/live/22222/22222/4881.ts
-#EXTINF:-1,BEIN-SPORT-6=FULL-HD
-http://egyman.net:1978/live/22222/22222/4880.ts
-#EXTINF:-1,BEIN-SPORT-7=FULL-HD
-http://egyman.net:1978/live/22222/22222/4879.ts
-#EXTINF:-1,BEIN-SPORT-8=FULL-HD
-http://egyman.net:1978/live/22222/22222/4878.ts
-#EXTINF:-1,BEIN-SPORT-9=FULL-HD
-http://egyman.net:1978/live/22222/22222/4877.ts
-#EXTINF:-1,BEIN-SPORT-10=FULL-HD
-http://egyman.net:1978/live/22222/22222/4876.ts
-#EXTINF:-1,BEIN-SPORT-1=4K
-http://egyman.net:1978/live/22222/22222/4609.ts
-#EXTINF:-1,BEIN-SPORT-2=4K
-http://egyman.net:1978/live/22222/22222/4610.ts
-#EXTINF:-1,BEIN-SPORT-3=4K
-http://egyman.net:1978/live/22222/22222/4611.ts
-#EXTINF:-1,BEIN-SPORT-4=4K
-http://egyman.net:1978/live/22222/22222/4612.ts
-#EXTINF:-1,BEIN-SPORT-5=4K
-http://egyman.net:1978/live/22222/22222/4613.ts
-#EXTINF:-1,BEIN-SPORT-6=4K
-http://egyman.net:1978/live/22222/22222/4614.ts
-#EXTINF:-1,BEIN-SPORT-7=4K
-http://egyman.net:1978/live/22222/22222/4615.ts
-#EXTINF:-1,BEIN-SPORT-8=4K
-http://egyman.net:1978/live/22222/22222/4616.ts
-#EXTINF:-1,BEIN-SPORT-9=4K
-http://egyman.net:1978/live/22222/22222/4617.ts
-#EXTINF:-1,BEIN-SPORT-10=4K
-http://egyman.net:1978/live/22222/22222/4618.ts
-#EXTINF:-1,AD SPORT HD1
-http://egyman.net:1978/live/22222/22222/6859.ts
-#EXTINF:-1,AD SPORT HD2
-http://egyman.net:1978/live/22222/22222/6860.ts
-#EXTINF:-1,AD SPORT HD3
-http://egyman.net:1978/live/22222/22222/6861.ts
-#EXTINF:-1,AD SPORT HD4
-http://egyman.net:1978/live/22222/22222/6862.ts
-#EXTINF:-1,AR:-OSN-WWE
-http://egyman.net:1978/live/22222/22222/4556.ts
-#EXTINF:-1,IT:Sky.Sport F1
-http://egyman.net:1978/live/22222/22222/6521.ts
-#EXTINF:-1,IT:Sky.Sport.1
-http://egyman.net:1978/live/22222/22222/6520.ts
-#EXTINF:-1,IT:Sky.Sport.2
-http://egyman.net:1978/live/22222/22222/6519.ts
-#EXTINF:-1,IT:Sky.Sport.24
-http://egyman.net:1978/live/22222/22222/6518.ts
-#EXTINF:-1,IT:Sky.Sport.3
-http://egyman.net:1978/live/22222/22222/6517.ts
