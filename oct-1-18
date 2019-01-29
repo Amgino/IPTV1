@@ -1,250 +1,840 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="boomerang.nl" tvg-name="NL: Boomerang" tvg-logo="http://iptvreseller.xyz:1234/Anh/boomerang.png" group-title="Netherlands",NL: Boomerang
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3929
-#EXTINF:-1 tvg-ID="comedycentral.nl" tvg-name="NL : Comedy Central" tvg-logo="http://iptvreseller.xyz:1234/Anh/comedycentral.png" group-title="Netherlands",NL : Comedy Central
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3928
-#EXTINF:-1 tvg-ID="discoverychannel.nl" tvg-name="NL : Discovery Channel" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoverychannel.png" group-title="Netherlands",NL : Discovery Channel
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3927
-#EXTINF:-1 tvg-ID="disneychannel.nl" tvg-name="NL : Disney Channel" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneychannel.png" group-title="Netherlands",NL : Disney Channel
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3926
-#EXTINF:-1 tvg-ID="film1action.nl" tvg-name="NL: Film1 Action" tvg-logo="http://iptvreseller.xyz:1234/Anh/film1action.png" group-title="Netherlands",NL: Film1 Action
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3925
-#EXTINF:-1 tvg-ID="" tvg-name="NL : Film1 Comedy & Kids" tvg-logo="http://iptvreseller.xyz:1234/Anh/Film1ComedyandKids.png" group-title="Netherlands",NL : Film1 Comedy & Kids
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3924
-#EXTINF:-1 tvg-ID="" tvg-name="NL : Film1 Spotlight" tvg-logo="http://iptvreseller.xyz:1234/Anh/Film1Spotlight.png" group-title="Netherlands",NL : Film1 Spotlight
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3922
-#EXTINF:-1 tvg-ID="fox.nl" tvg-name="NL : FOX Channel" tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" group-title="Netherlands",NL : FOX Channel
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3920
-#EXTINF:-1 tvg-ID="" tvg-name="NL: HBO" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo.png" group-title="Netherlands",NL: HBO
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3919
-#EXTINF:-1 tvg-ID="" tvg-name="NL: HBO 3" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo3.png" group-title="Netherlands",NL: HBO 3
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3917
-#EXTINF:-1 tvg-ID="history.nl" tvg-name="NL : History" tvg-logo="http://iptvreseller.xyz:1234/Anh/history.png" group-title="Netherlands",NL : History
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3916
-#EXTINF:-1 tvg-ID="natgeo.nl" tvg-name="NL: National Geographic" tvg-logo="http://iptvreseller.xyz:1234/Anh/nationalgeographic.png" group-title="Netherlands",NL: National Geographic
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3912
-#EXTINF:-1 tvg-ID="nickjr.nl" tvg-name="NL: Nick Jr" tvg-logo="http://iptvreseller.xyz:1234/Anh/nickjr.png" group-title="Netherlands",NL: Nick Jr
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3910
-#EXTINF:-1 tvg-ID="nickelodeon.nl" tvg-name="NL: Nickelodeon" tvg-logo="http://iptvreseller.xyz:1234/Anh/nickelodeon.png" group-title="Netherlands",NL: Nickelodeon
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3911
-#EXTINF:-1 tvg-ID="npo1.nl" tvg-name="NL : NPO 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/npo1.png" group-title="Netherlands",NL : NPO 1
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3909
-#EXTINF:-1 tvg-ID="npo2.nl" tvg-name="NL : NPO 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/npo2.png" group-title="Netherlands",NL : NPO 2
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3908
-#EXTINF:-1 tvg-ID="rtl5.nl" tvg-name="NL : RTL 5" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtl5.png" group-title="Netherlands",NL : RTL 5
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3904
-#EXTINF:-1 tvg-ID="rtl7.nl" tvg-name="NL : RTL 7" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtl7.png" group-title="Netherlands",NL : RTL 7
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3903
-#EXTINF:-1 tvg-ID="rtl8.nl" tvg-name="NL : RTL 8" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtl8.png" group-title="Netherlands",NL : RTL 8
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3902
-#EXTINF:-1 tvg-ID="Syfy" tvg-name="NL : SYFY" tvg-logo="http://iptvreseller.xyz:1234/Anh/syfy.png" group-title="Netherlands",NL : SYFY
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3898
-#EXTINF:-1 tvg-ID="veronicadisneyxd.nl" tvg-name="NL : Veronica Disney XD" tvg-logo="http://iptvreseller.xyz:1234/Anh/veronica.png" group-title="Netherlands",NL : Veronica Disney XD
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3896
-#EXTINF:-1 tvg-ID="ziggosportextra2.nl" tvg-name="NL : Ziggo Sport Extra2" tvg-logo="http://iptvreseller.xyz:1234/Anh/ziggosportextra2.png" group-title="Netherlands",NL : Ziggo Sport Extra2
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3894
-#EXTINF:-1 tvg-ID="ziggosportgolf.nl" tvg-name="NL : Ziggo Sport Golf" tvg-logo="http://iptvreseller.xyz:1234/Anh/ziggosport.png" group-title="Netherlands",NL : Ziggo Sport Golf
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3893
-#EXTINF:-1 tvg-ID="ziggosportselect.nl" tvg-name="NL: Ziggo Sport Select HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ziggosport.png" group-title="Netherlands",NL: Ziggo Sport Select HD
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3892
-#EXTINF:-1 tvg-ID="ziggosportvoetbal.nl" tvg-name="NL : Ziggo Sport.Voetbal" tvg-logo="http://iptvreseller.xyz:1234/Anh/ziggosport.png" group-title="Netherlands",NL : Ziggo Sport.Voetbal
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3891
-#EXTINF:-1 tvg-ID="13TH STREET" tvg-name="NL: 13th" tvg-logo="http://iptvreseller.xyz:1234/Anh/13thstreet.png" group-title="Netherlands",NL: 13th
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3931
-#EXTINF:-1 tvg-ID="192tv.nl" tvg-name="NL: 192 TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/192tv.png" group-title="Netherlands",NL: 192 TV
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17764
-#EXTINF:-1 tvg-ID="24kitchen.nl" tvg-name="NL: 24 Kitchen" tvg-logo="http://iptvreseller.xyz:1234/Anh/24kitchen.png" group-title="Netherlands",NL: 24 Kitchen
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/16998
-#EXTINF:-1 tvg-ID="animalplanet.nl" tvg-name="NL: Animal Planet" tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanet.png" group-title="Netherlands",NL: Animal Planet
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3930
-#EXTINF:-1 tvg-ID="at5.nl" tvg-name="NL: AT 5" tvg-logo="http://iptvreseller.xyz:1234/Anh/at5.png" group-title="Netherlands",NL: AT 5
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17743
-#EXTINF:-1 tvg-ID="at5.nl" tvg-name="NL: AT5" tvg-logo="http://iptvreseller.xyz:1234/Anh/at5.png" group-title="Netherlands",NL: AT5
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/8672
-#EXTINF:-1 tvg-ID="" tvg-name="NL: AT5 HD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/at5.png" group-title="Netherlands",NL: AT5 HD 1080
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/8671
-#EXTINF:-1 tvg-ID="babytv.nl" tvg-name="NL: Baby TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/babytv.png" group-title="Netherlands",NL: Baby TV
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17191
-#EXTINF:-1 tvg-ID="cartoonnetwork.nl" tvg-name="NL: Cartoon Network" tvg-logo="http://iptvreseller.xyz:1234/Anh/cartoonnetwork.png" group-title="Netherlands",NL: Cartoon Network
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/16145
-#EXTINF:-1 tvg-ID="discoveryscience.nl" tvg-name="NL: Discovery Science" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryscience.png" group-title="Netherlands",NL: Discovery Science
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17634
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Discovery Showcase HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryshowcasehd.png" group-title="Netherlands",NL: Discovery Showcase HD
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17632
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Discovery World" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryworld.png" group-title="Netherlands",NL: Discovery World
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17633
-#EXTINF:-1 tvg-ID="disneyjunior.nl" tvg-name="NL: Disney Junior" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyjunior.png" group-title="Netherlands",NL: Disney Junior
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/16146
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Djazz TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/DjazzTV.png" group-title="Netherlands",NL: Djazz TV
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17762
-#EXTINF:-1 tvg-ID="eentertainment.nl" tvg-name="NL: E! Entertainment" tvg-logo="http://iptvreseller.xyz:1234/Anh/eentertainment.png" group-title="Netherlands",NL: E! Entertainment
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/16999
-#EXTINF:-1 tvg-ID="eurosport1.nl" tvg-name="NL: Eurosport 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/eurosport1.png" group-title="Netherlands",NL: Eurosport 1
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/16147
-#EXTINF:-1 tvg-ID="eurosport1.nl" tvg-name="NL: Eurosport 1 FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/eurosport1hd.png" group-title="Netherlands",NL: Eurosport 1 FHD 1080
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/5654
-#EXTINF:-1 tvg-ID="eurosport2.nl" tvg-name="NL: Eurosport 2 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/eurosport2hd.png" group-title="Netherlands",NL: Eurosport 2 HD
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/5655
-#EXTINF:-1 tvg-ID="Extreme Sports NL" tvg-name="NL: Extreme Sports" tvg-logo="http://iptvreseller.xyz:1234/Anh/extremesports.png" group-title="Netherlands",NL: Extreme Sports
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17766
-#EXTINF:-1 tvg-ID="film1premiere.nl" tvg-name="NL: Film 1 Drama" tvg-logo="http://iptvreseller.xyz:1234/Anh/film1drama.png" group-title="Netherlands",NL: Film 1 Drama
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/16392
-#EXTINF:-1 tvg-ID="film1family.nl" tvg-name="NL: Film 1 Family" tvg-logo="http://iptvreseller.xyz:1234/Anh/film1family.png" group-title="Netherlands",NL: Film 1 Family
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/16393
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Film Europe INT FHD" tvg-logo="" group-title="Netherlands",NL: Film Europe INT FHD
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/31382
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Film1 Premiere" tvg-logo="http://iptvreseller.xyz:1234/Anh/film1premiere.png" group-title="Netherlands",NL: Film1 Premiere
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3923
-#EXTINF:-1 tvg-ID="film1premiere.nl" tvg-name="NL: Film1 Premiere FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/film1premiere.png" group-title="Netherlands",NL: Film1 Premiere FHD 1080
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/5647
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Film1 SUNDANCE" tvg-logo="http://iptvreseller.xyz:1234/Anh/Film1SUNDANCE.png" group-title="Netherlands",NL: Film1 SUNDANCE
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3921
-#EXTINF:-1 tvg-ID="foodnetwork.nl" tvg-name="NL: Food Network" tvg-logo="http://iptvreseller.xyz:1234/Anh/foodnetwork.png" group-title="Netherlands",NL: Food Network
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17636
-#EXTINF:-1 tvg-ID="foxsports1.nl" tvg-name="NL: Fox Sports 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports1.png" group-title="Netherlands",NL: Fox Sports 1
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/157
-#EXTINF:-1 tvg-ID="foxsports1.nl" tvg-name="NL: FOX Sports 1 FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports1hd.png" group-title="Netherlands",NL: FOX Sports 1 FHD 1080
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/5644
-#EXTINF:-1 tvg-ID="foxsports2.nl" tvg-name="NL: Fox Sports 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports2.png" group-title="Netherlands",NL: Fox Sports 2
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/156
-#EXTINF:-1 tvg-ID="foxsports2.nl" tvg-name="NL: FOX Sports 2 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports2hd.png" group-title="Netherlands",NL: FOX Sports 2 HD
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/5645
-#EXTINF:-1 tvg-ID="foxsports3.nl" tvg-name="NL: Fox Sports 3" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports3.png" group-title="Netherlands",NL: Fox Sports 3
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/155
-#EXTINF:-1 tvg-ID="foxsports3.nl" tvg-name="NL: FOX Sports 3 HD ( 1080P )" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports3.png" group-title="Netherlands",NL: FOX Sports 3 HD ( 1080P )
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/7474
-#EXTINF:-1 tvg-ID="foxsports4.nl" tvg-name="NL: Fox Sports 4" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports4.png" group-title="Netherlands",NL: Fox Sports 4
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/154
-#EXTINF:-1 tvg-ID="foxsports4.nl" tvg-name="NL: Fox Sports 4 HD ( 1080P )" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports4hd.png" group-title="Netherlands",NL: Fox Sports 4 HD ( 1080P )
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/7475
-#EXTINF:-1 tvg-ID="foxsports5.nl" tvg-name="NL: Fox Sports 5" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports5.png" group-title="Netherlands",NL: Fox Sports 5
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/153
-#EXTINF:-1 tvg-ID="foxsports5.nl" tvg-name="NL: Fox Sports 5 HD ( 1080P )" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports5.png" group-title="Netherlands",NL: Fox Sports 5 HD ( 1080P )
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/7476
-#EXTINF:-1 tvg-ID="foxsports6.nl" tvg-name="NL: Fox Sports 6" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports6.png" group-title="Netherlands",NL: Fox Sports 6
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/152
-#EXTINF:-1 tvg-ID="" tvg-name="NL: HBO2" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo2.png" group-title="Netherlands",NL: HBO2
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3918
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Horse & Country TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/horseandcountry.png" group-title="Netherlands",NL: Horse & Country TV
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17635
-#EXTINF:-1 tvg-ID="investigationdiscovery.nl" tvg-name="NL: Investigation Discovery" tvg-logo="http://iptvreseller.xyz:1234/Anh/investigationdiscovery.png" group-title="Netherlands",NL: Investigation Discovery
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3915
-#EXTINF:-1 tvg-ID="jimjam.nl" tvg-name="NL: JimJam" tvg-logo="http://iptvreseller.xyz:1234/Anh/jimjam.png" group-title="Netherlands",NL: JimJam
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3914
-#EXTINF:-1 tvg-ID="ketnet.nl" tvg-name="NL: Ketnet HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ketnet.png" group-title="Netherlands",NL: Ketnet HD
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17768
-#EXTINF:-1 tvg-ID="motorsporttv.nl" tvg-name="NL: Motors TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/motorstv.png" group-title="Netherlands",NL: Motors TV
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17631
-#EXTINF:-1 tvg-ID="MTV.nl" tvg-name="NL: MTV HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/mtv.png" group-title="Netherlands",NL: MTV HD
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17763
-#EXTINF:-1 tvg-ID="mtvmusic24.nl" tvg-name="NL: MTV Music 24" tvg-logo="http://iptvreseller.xyz:1234/Anh/mtvmusic.png" group-title="Netherlands",NL: MTV Music 24
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17765
-#EXTINF:-1 tvg-ID="natgeowild.nl" tvg-name="NL: Nat Geo Wild FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeowild.png" group-title="Netherlands",NL: Nat Geo Wild FHD 1080
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/5653
-#EXTINF:-1 tvg-ID="natgeowild.nl" tvg-name="NL: Nat Geo Wild HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeowildhd.png" group-title="Netherlands",NL: Nat Geo Wild HD
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/16148
-#EXTINF:-1 tvg-ID="natgeo.nl" tvg-name="NL: National Geographic FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/nationalgeographichd.png" group-title="Netherlands",NL: National Geographic FHD 1080
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/5652
-#EXTINF:-1 tvg-ID="net5.nl" tvg-name="NL: NET 5" tvg-logo="http://iptvreseller.xyz:1234/Anh/net5.png" group-title="Netherlands",NL: NET 5
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3913
-#EXTINF:-1 tvg-ID="net5.nl" tvg-name="NL: Net 5 FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/net5.png" group-title="Netherlands",NL: Net 5 FHD 1080
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/5649
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Nick Hits" tvg-logo="http://iptvreseller.xyz:1234/Anh/nickhits.png" group-title="Netherlands",NL: Nick Hits
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17629
-#EXTINF:-1 tvg-ID="nicktoons.nl" tvg-name="NL: Nicktoons" tvg-logo="http://iptvreseller.xyz:1234/Anh/nicktoons.png" group-title="Netherlands",NL: Nicktoons
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/16520
-#EXTINF:-1 tvg-ID="" tvg-name="NL: NPO 1 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/npo1.png" group-title="Netherlands",NL: NPO 1 FHD
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/26878
-#EXTINF:-1 tvg-ID="npo1.nl" tvg-name="NL: NPO 1 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/npo1.png" group-title="Netherlands",NL: NPO 1 HD
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/5447
-#EXTINF:-1 tvg-ID="npo2.nl" tvg-name="NL: NPO 2 FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/npo2.png" group-title="Netherlands",NL: NPO 2 FHD 1080
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/5448
-#EXTINF:-1 tvg-ID="npo3.nl" tvg-name="NL: NPO 3" tvg-logo="http://iptvreseller.xyz:1234/Anh/npo3.png" group-title="Netherlands",NL: NPO 3
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3907
-#EXTINF:-1 tvg-ID="npo3.nl" tvg-name="NL: NPO 3 FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/npo3.png" group-title="Netherlands",NL: NPO 3 FHD 1080
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/5449
-#EXTINF:-1 tvg-ID="npopolitiek.nl" tvg-name="NL: NPO Politiek" tvg-logo="http://iptvreseller.xyz:1234/Anh/npopolitiek.png" group-title="Netherlands",NL: NPO Politiek
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/8952
-#EXTINF:-1 tvg-ID="npozappxtra.nl" tvg-name="NL: NPO Zapp Xtra" tvg-logo="http://iptvreseller.xyz:1234/Anh/NPOZappXtra.png" group-title="Netherlands",NL: NPO Zapp Xtra
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/8951
-#EXTINF:-1 tvg-ID="Omroep Brabant NL" tvg-name="NL: Omroep Brabant" tvg-logo="http://iptvreseller.xyz:1234/Anh/omroepbrabant.png" group-title="Netherlands",NL: Omroep Brabant
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17739
-#EXTINF:-1 tvg-ID="Omroep Flevoland NL" tvg-name="NL: Omroep Flevoland" tvg-logo="http://iptvreseller.xyz:1234/Anh/omroepflevoland.png" group-title="Netherlands",NL: Omroep Flevoland
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17738
-#EXTINF:-1 tvg-ID="Omrop Fryslan NL" tvg-name="NL: Omroep Fryslan" tvg-logo="http://iptvreseller.xyz:1234/Anh/OmroepFryslan.png" group-title="Netherlands",NL: Omroep Fryslan
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17737
-#EXTINF:-1 tvg-ID="Omroep Gelderland NL" tvg-name="NL: Omroep Gelderland" tvg-logo="http://iptvreseller.xyz:1234/Anh/omroepgelderland.png" group-title="Netherlands",NL: Omroep Gelderland
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17736
-#EXTINF:-1 tvg-ID="Omroep Brabant NL" tvg-name="NL: Omroep Zeeland" tvg-logo="http://iptvreseller.xyz:1234/Anh/omroepzeeland.png" group-title="Netherlands",NL: Omroep Zeeland
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17740
-#EXTINF:-1 tvg-ID="rtl4.nl" tvg-name="NL: RTL 4" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtl4.png" group-title="Netherlands",NL: RTL 4
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3905
-#EXTINF:-1 tvg-ID="rtl4.nl" tvg-name="NL: RTL 4 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtl4.png" group-title="Netherlands",NL: RTL 4 FHD
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/5450
-#EXTINF:-1 tvg-ID="rtl5.nl" tvg-name="NL: RTL 5 FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtl5.png" group-title="Netherlands",NL: RTL 5 FHD 1080
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/5451
-#EXTINF:-1 tvg-ID="rtl7.nl" tvg-name="NL: RTL 7 FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtl7.png" group-title="Netherlands",NL: RTL 7 FHD 1080
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/5454
-#EXTINF:-1 tvg-ID="rtl8.nl" tvg-name="NL: RTL 8 FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtl8.png" group-title="Netherlands",NL: RTL 8 FHD 1080
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/5455
-#EXTINF:-1 tvg-ID="rtlcrime.nl" tvg-name="NL: RTL Crime" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtlcrime.png" group-title="Netherlands",NL: RTL Crime
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17495
-#EXTINF:-1 tvg-ID="rtllounge.nl" tvg-name="NL: RTL lounge" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtllounge.png" group-title="Netherlands",NL: RTL lounge
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3901
-#EXTINF:-1 tvg-ID="rtltelekids.nl" tvg-name="NL: RTL Telekids" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtltelekids.png" group-title="Netherlands",NL: RTL Telekids
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17630
-#EXTINF:-1 tvg-ID="rtlz.nl" tvg-name="NL: RTL Z" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtlz.png" group-title="Netherlands",NL: RTL Z
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/8378
-#EXTINF:-1 tvg-ID="rtv7.nl" tvg-name="NL: RTV 7" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtv7.png" group-title="Netherlands",NL: RTV 7
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17639
-#EXTINF:-1 tvg-ID="RTV Drenthe NL" tvg-name="NL: RTV DRENTHE" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtvdrenthe.png" group-title="Netherlands",NL: RTV DRENTHE
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17757
-#EXTINF:-1 tvg-ID="RTV Noord NL" tvg-name="NL: RTV Noord" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtvnoord.png" group-title="Netherlands",NL: RTV Noord
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17758
-#EXTINF:-1 tvg-ID="RTV Oost" tvg-name="NL: RTV OOST" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtvoost.png" group-title="Netherlands",NL: RTV OOST
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/19526
-#EXTINF:-1 tvg-ID="" tvg-name="NL: RTV Utrecht" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtvutrecht.png" group-title="Netherlands",NL: RTV Utrecht
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17741
-#EXTINF:-1 tvg-ID="sbs6.nl" tvg-name="NL: SBS 6" tvg-logo="http://iptvreseller.xyz:1234/Anh/sbs6.png" group-title="Netherlands",NL: SBS 6
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3900
-#EXTINF:-1 tvg-ID="sbs9.nl" tvg-name="NL: SBS 9" tvg-logo="http://iptvreseller.xyz:1234/Anh/sbs9.png" group-title="Netherlands",NL: SBS 9
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3899
-#EXTINF:-1 tvg-ID="sbs6.nl" tvg-name="NL: SBS6 FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/sbs6.png" group-title="Netherlands",NL: SBS6 FHD 1080
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/5648
-#EXTINF:-1 tvg-ID="slam.nl" tvg-name="NL: Slam" tvg-logo="http://iptvreseller.xyz:1234/Anh/slamtv.png" group-title="Netherlands",NL: Slam
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17760
-#EXTINF:-1 tvg-ID="spike.nl" tvg-name="NL: Spike HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/spike.png" group-title="Netherlands",NL: Spike HD
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17638
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Sport 1 Voetbal" tvg-logo="http://iptvreseller.xyz:1234/Anh/sport1-duslelaslu.png" group-title="Netherlands",NL: Sport 1 Voetbal
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/150
-#EXTINF:-1 tvg-ID="tlc.nl" tvg-name="NL: TLC" tvg-logo="http://iptvreseller.xyz:1234/Anh/tlc.png" group-title="Netherlands",NL: TLC
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3897
-#EXTINF:-1 tvg-ID="travelchannel.nl" tvg-name="NL: Travel Channel HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/travelchannel.png" group-title="Netherlands",NL: Travel Channel HD
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/16149
-#EXTINF:-1 tvg-ID="tvoost.nl" tvg-name="NL: TV Oost" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtvoost.png" group-title="Netherlands",NL: TV Oost
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17742
-#EXTINF:-1 tvg-ID="tvoranje.nl" tvg-name="NL: TV Oranje" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvoranje.png" group-title="Netherlands",NL: TV Oranje
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17761
-#EXTINF:-1 tvg-ID="tv538.nl" tvg-name="NL: TV538" tvg-logo="http://iptvreseller.xyz:1234/Anh/TV538.png" group-title="Netherlands",NL: TV538
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17767
-#EXTINF:-1 tvg-ID="" tvg-name="NL: Veronica / Disney XD" tvg-logo="http://iptvreseller.xyz:1234/Anh/veronica.png" group-title="Netherlands",NL: Veronica / Disney XD
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/19212
-#EXTINF:-1 tvg-ID="veronicadisneyxd.nl" tvg-name="NL: Veronica / Disney XD FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyxdhd.png" group-title="Netherlands",NL: Veronica / Disney XD FHD 1080
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/5453
-#EXTINF:-1 tvg-ID="viceland.nl" tvg-name="NL: ViceLand HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/viceland.png" group-title="Netherlands",NL: ViceLand HD
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17637
-#EXTINF:-1 tvg-ID="xite.nl" tvg-name="NL: XITE HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/xite.png" group-title="Netherlands",NL: XITE HD
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17759
-#EXTINF:-1 tvg-ID="ziggosportextra1.nl" tvg-name="NL: Ziggo Sport Extra1" tvg-logo="http://iptvreseller.xyz:1234/Anh/ziggosportextra1.png" group-title="Netherlands",NL: Ziggo Sport Extra1
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3895
-#EXTINF:-1 tvg-ID="ziggosportracing.nl" tvg-name="NL: Ziggo Sport Racing" tvg-logo="http://iptvreseller.xyz:1234/Anh/ziggosport.png" group-title="Netherlands",NL: Ziggo Sport Racing
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/3890
-#EXTINF:-1 tvg-ID="ziggosportselect.nl" tvg-name="NL: Ziggo Sport Select FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/ziggosport.png" group-title="Netherlands",NL: Ziggo Sport Select FHD 1080
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/5452
-#EXTINF:-1 tvg-ID="ziggotv.nl" tvg-name="NL: Ziggo TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/ziggo.png" group-title="Netherlands",NL: Ziggo TV
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/17628
-#EXTINF:-1 tvg-ID="" tvg-name="NOR: SVT1" tvg-logo="" group-title="",NOR: SVT1
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/7504
-#EXTINF:-1 tvg-ID="" tvg-name="Nordic | VIASAT Sport" tvg-logo="" group-title="Sport",Nordic | VIASAT Sport
-http://iptv-line.com:6969/taodo/OHjLoHxtzO/2446
+#EXTINF:-1,NL: FILM 1 COMEDY
+http://daddyiptv.com:8000/live/riza1/1234/551.ts
+#EXTINF:-1,NL: FILM 1 PREMIERE
+http://daddyiptv.com:8000/live/riza1/1234/550.ts
+#EXTINF:-1,NL: FILM 1 SPOTLIGHT
+http://daddyiptv.com:8000/live/riza1/1234/549.ts
+#EXTINF:-1,NL: FILM 1 SUNDANCE
+http://daddyiptv.com:8000/live/riza1/1234/548.ts
+#EXTINF:-1,NL: FILM 1 ACTION
+http://daddyiptv.com:8000/live/riza1/1234/552.ts
+#EXTINF:-1,NL: FOX SPORT 1
+http://daddyiptv.com:8000/live/riza1/1234/545.ts
+#EXTINF:-1,NL: FOX SPORT 2
+http://daddyiptv.com:8000/live/riza1/1234/544.ts
+#EXTINF:-1,NL: FOX SPORT 3
+http://daddyiptv.com:8000/live/riza1/1234/543.ts
+#EXTINF:-1,NL: FOX SPORT 4
+http://daddyiptv.com:8000/live/riza1/1234/542.ts
+#EXTINF:-1,NL: FOX SPORT 5
+http://daddyiptv.com:8000/live/riza1/1234/541.ts
+#EXTINF:-1,NL: HBO 1
+http://daddyiptv.com:8000/live/riza1/1234/561.ts
+#EXTINF:-1,NL: HBO 2
+http://daddyiptv.com:8000/live/riza1/1234/560.ts
+#EXTINF:-1,NL: HBO 3
+http://daddyiptv.com:8000/live/riza1/1234/559.ts
+#EXTINF:-1,NL: NICKELODEON
+http://daddyiptv.com:8000/live/riza1/1234/547.ts
+#EXTINF:-1,NL: NPO 1
+http://daddyiptv.com:8000/live/riza1/1234/564.ts
+#EXTINF:-1,NL: NPO 2
+http://daddyiptv.com:8000/live/riza1/1234/563.ts
+#EXTINF:-1,NL: NPO 3
+http://daddyiptv.com:8000/live/riza1/1234/562.ts
+#EXTINF:-1,NL: RTL 4
+http://daddyiptv.com:8000/live/riza1/1234/556.ts
+#EXTINF:-1,NL: RTL 5
+http://daddyiptv.com:8000/live/riza1/1234/555.ts
+#EXTINF:-1,NL: RTL 7
+http://daddyiptv.com:8000/live/riza1/1234/554.ts
+#EXTINF:-1,NL: RTL 8
+http://daddyiptv.com:8000/live/riza1/1234/553.ts
+#EXTINF:-1,NL: SBS 6
+http://daddyiptv.com:8000/live/riza1/1234/558.ts
+#EXTINF:-1,NL: SBS 9
+http://daddyiptv.com:8000/live/riza1/1234/557.ts
+#EXTINF:-1,NL: VERONICA DISNEY XD
+http://daddyiptv.com:8000/live/riza1/1234/546.ts
+
+#EXTINF:-1,NL- RTL 4 FHD
+http://smart-hdip.com:6204/said/123/9534
+#EXTINF:-1,NL- RTL 5 FHD
+http://smart-hdip.com:6204/said/123/9533
+#EXTINF:-1,NL- RTL 7 FHD
+http://smart-hdip.com:6204/said/123/9532
+#EXTINF:-1,NL- RTL 8 FHD
+http://smart-hdip.com:6204/said/123/9531
+#EXTINF:-1,NL- RTL Crime HD
+http://smart-hdip.com:6204/said/123/9530
+#EXTINF:-1,NL- RTL Lounge
+http://smart-hdip.com:6204/said/123/9529
+#EXTINF:-1,NL- RTL Z
+http://smart-hdip.com:6204/said/123/9528
+#EXTINF:-1,NL- RTL 4 FHD Backup
+http://smart-hdip.com:6204/said/123/13537
+#EXTINF:-1,NL- RTL 5 FHD Backup
+http://smart-hdip.com:6204/said/123/13536
+#EXTINF:-1,NL- RTL 7 FHD Backup
+http://smart-hdip.com:6204/said/123/13535
+#EXTINF:-1,NL- RTL 8 FHD Backup
+http://smart-hdip.com:6204/said/123/13534
+#EXTINF:-1,NL- RTL Crime HD Backup
+http://smart-hdip.com:6204/said/123/13533
+#EXTINF:-1,NL- RTL Lounge Backup
+http://smart-hdip.com:6204/said/123/13532
+#EXTINF:-1,NL- RTL Z Backup
+http://smart-hdip.com:6204/said/123/13529
+#EXTINF:-1,NL- RTL Telekids FHD
+http://smart-hdip.com:6204/said/123/13531
+#EXTINF:-1,NL- RTL Telekids HD
+http://smart-hdip.com:6204/said/123/13530
+#EXTINF:-1,NL- RTL Telekids
+http://smart-hdip.com:6204/said/123/11051
+#EXTINF:-1,NL- NPO 101
+http://smart-hdip.com:6204/said/123/9540
+#EXTINF:-1,NL- NPO 1 HD
+http://smart-hdip.com:6204/said/123/9541
+#EXTINF:-1,NL- NPO 2 HD
+http://smart-hdip.com:6204/said/123/9539
+#EXTINF:-1,NL- NPO 3 HD
+http://smart-hdip.com:6204/said/123/9538
+#EXTINF:-1,NL- NPO HUMOR
+http://smart-hdip.com:6204/said/123/9537
+#EXTINF:-1,NL- NPO Politiek
+http://smart-hdip.com:6204/said/123/9536
+#EXTINF:-1,NL- NPO Zapp Xtra/NPO Humor TV
+http://smart-hdip.com:6204/said/123/9535
+#EXTINF:-1,NL- NPO Best/Zapp Xtra NL
+http://smart-hdip.com:6204/said/123/11055
+#EXTINF:-1,NL- NPO Cultura NL
+http://smart-hdip.com:6204/said/123/11054
+#EXTINF:-1,NL- NPO Humor TV NL
+http://smart-hdip.com:6204/said/123/11053
+#EXTINF:-1,NL- NPO Politiek NL
+http://smart-hdip.com:6204/said/123/11052
+#EXTINF:-1,NL- NPO 1 HD Backup
+http://smart-hdip.com:6204/said/123/13543
+#EXTINF:-1,NL- NPO 2 HD Backup
+http://smart-hdip.com:6204/said/123/13542
+#EXTINF:-1,NL- NPO 3 Backup
+http://smart-hdip.com:6204/said/123/13541
+#EXTINF:-1,NL- NPO 3 Extra Backup
+http://smart-hdip.com:6204/said/123/13540
+#EXTINF:-1,NL- NPO Politiek Backup
+http://smart-hdip.com:6204/said/123/13539
+#EXTINF:-1,NL- NPO Zapp HD Backup
+http://smart-hdip.com:6204/said/123/13538
+#EXTINF:-1,NL- SBS 9
+http://smart-hdip.com:6204/said/123/9527
+#EXTINF:-1,NL- SBS6 HD
+http://smart-hdip.com:6204/said/123/9526
+#EXTINF:-1,NL- SBS 9 HD Backup
+http://smart-hdip.com:6204/said/123/13551
+#EXTINF:-1,NL- SBS6 HD Backup
+http://smart-hdip.com:6204/said/123/13550
+#EXTINF:-1,NL- Film1 Action HD
+http://smart-hdip.com:6204/said/123/9567
+#EXTINF:-1,NL- Film1 Family HD
+http://smart-hdip.com:6204/said/123/9566
+#EXTINF:-1,NL- Film1 Premiere HD
+http://smart-hdip.com:6204/said/123/9565
+#EXTINF:-1,NL- Film1 Drama HD
+http://smart-hdip.com:6204/said/123/9564
+#EXTINF:-1,NL- Film1 Action HD Backup
+http://smart-hdip.com:6204/said/123/13528
+#EXTINF:-1,NL- Film1 Family HD Backup
+http://smart-hdip.com:6204/said/123/13526
+#EXTINF:-1,NL- Film1 Premiere HD Backup
+http://smart-hdip.com:6204/said/123/13525
+#EXTINF:-1,NL- Film1 Drama HD Backup
+http://smart-hdip.com:6204/said/123/13527
+#EXTINF:-1,NL- Look TV
+http://smart-hdip.com:6204/said/123/9553
+#EXTINF:-1,NL- 192TV
+http://smart-hdip.com:6204/said/123/9584
+#EXTINF:-1,NL- 24 Kitchen HD
+http://smart-hdip.com:6204/said/123/9583
+#EXTINF:-1,NL- Comedy Central HD
+http://smart-hdip.com:6204/said/123/9577
+#EXTINF:-1,NL- Crime & Investigation
+http://smart-hdip.com:6204/said/123/9576
+#EXTINF:-1,NL- Comedy Central Eextra
+http://smart-hdip.com:6204/said/123/9578
+#EXTINF:-1,NL- Duck TV
+http://smart-hdip.com:6204/said/123/9572
+#EXTINF:-1,NL- E!
+http://smart-hdip.com:6204/said/123/9571
+#EXTINF:-1,NL- iConcerts HD
+http://smart-hdip.com:6204/said/123/9551
+#EXTINF:-1,NL- Ketnet HD
+http://smart-hdip.com:6204/said/123/9548
+#EXTINF:-1,NL- NET 5 HD
+http://smart-hdip.com:6204/said/123/9545
+#EXTINF:-1,NL- Omroep Brabant NL
+http://smart-hdip.com:6204/said/123/11019
+#EXTINF:-1,NL- Omroep Flevoland NL
+http://smart-hdip.com:6204/said/123/11018
+#EXTINF:-1,NL- Omroep Gelderland NL
+http://smart-hdip.com:6204/said/123/11017
+#EXTINF:-1,NL- Omroep West NL
+http://smart-hdip.com:6204/said/123/11016
+#EXTINF:-1,NL- Omroep Zeeland NL
+http://smart-hdip.com:6204/said/123/11015
+#EXTINF:-1,NL- Omrop Fryslan NL
+http://smart-hdip.com:6204/said/123/11014
+#EXTINF:-1,NL- RTV Drenthe NL
+http://smart-hdip.com:6204/said/123/11012
+#EXTINF:-1,NL- RTV Noord NL
+http://smart-hdip.com:6204/said/123/11011
+#EXTINF:-1,NL- RTV Oost NL
+http://smart-hdip.com:6204/said/123/11010
+#EXTINF:-1,NL- RTV Dordrecht NL
+http://smart-hdip.com:6204/said/123/11050
+#EXTINF:-1,NL- RTV Purmerend NL
+http://smart-hdip.com:6204/said/123/11049
+#EXTINF:-1,NL- RTV Rijnmond NL
+http://smart-hdip.com:6204/said/123/11048
+#EXTINF:-1,NL- RTV Slingeland NL
+http://smart-hdip.com:6204/said/123/11047
+#EXTINF:-1,NL- RTV Slos NL
+http://smart-hdip.com:6204/said/123/11046
+#EXTINF:-1,NL- RTV Totaal NL
+http://smart-hdip.com:6204/said/123/11045
+#EXTINF:-1,NL- RTV Utrecht NL
+http://smart-hdip.com:6204/said/123/11044
+#EXTINF:-1,NL- MTV NL
+http://smart-hdip.com:6204/said/123/11057
+#EXTINF:-1,NL- MTV Hits NL
+http://smart-hdip.com:6204/said/123/11059
+#EXTINF:-1,NL- MTV Music 24 NL
+http://smart-hdip.com:6204/said/123/11058
+#EXTINF:-1,NL- AT 5 NL
+http://smart-hdip.com:6204/said/123/11024
+#EXTINF:-1,NL- L1 TV NL
+http://smart-hdip.com:6204/said/123/11022
+#EXTINF:-1,Nl- Nick Music NL
+http://smart-hdip.com:6204/said/123/11021
+#EXTINF:-1,NL- ONS NL
+http://smart-hdip.com:6204/said/123/11013
+#EXTINF:-1,NL- Spike NL
+http://smart-hdip.com:6204/said/123/11009
+#EXTINF:-1,NL- TV 538 NL
+http://smart-hdip.com:6204/said/123/11007
+#EXTINF:-1,NL- WOS NL
+http://smart-hdip.com:6204/said/123/11006
+#EXTINF:-1,NL- The Q You HD NL
+http://smart-hdip.com:6204/said/123/11008
+#EXTINF:-1,NL- TLC
+http://smart-hdip.com:6204/said/123/9525
+#EXTINF:-1,NL- TV Oranje
+http://smart-hdip.com:6204/said/123/9524
+#EXTINF:-1,NL- Fox Channel HD
+http://smart-hdip.com:6204/said/123/9562
+#EXTINF:-1,NL- BBC Entertainment NL
+http://smart-hdip.com:6204/said/123/11066
+#EXTINF:-1,NL- EDE TV NL
+http://smart-hdip.com:6204/said/123/11063
+#EXTINF:-1,NL- Feel Good TV NL
+http://smart-hdip.com:6204/said/123/11061
+#EXTINF:-1,NL- Klipkar TV NL
+http://smart-hdip.com:6204/said/123/11060
+#EXTINF:-1,NL- Salto 1 NL
+http://smart-hdip.com:6204/said/123/11043
+#EXTINF:-1,NL- Salto 2 NL
+http://smart-hdip.com:6204/said/123/11042
+#EXTINF:-1,NL- Slam! NL
+http://smart-hdip.com:6204/said/123/11041
+#EXTINF:-1,NL- Slotstad RTV NL
+http://smart-hdip.com:6204/said/123/11040
+#EXTINF:-1,NL- Stringray Djazz FHD NL
+http://smart-hdip.com:6204/said/123/11039
+#EXTINF:-1,NL- Viceland HD NL
+http://smart-hdip.com:6204/said/123/11038
+#EXTINF:-1,NL- Animal Planet
+http://smart-hdip.com:6204/said/123/9582
+#EXTINF:-1,NL- Nat Geo Wild HD
+http://smart-hdip.com:6204/said/123/9546
+#EXTINF:-1,NL- National Geographic HD NL
+http://smart-hdip.com:6204/said/123/11056
+#EXTINF:-1,NL- History HD DUT
+http://smart-hdip.com:6204/said/123/9552
+#EXTINF:-1,NL- Discovery Channel
+http://smart-hdip.com:6204/said/123/9575
+#EXTINF:-1,NL- Discovery Showcase HD
+http://smart-hdip.com:6204/said/123/9574
+#EXTINF:-1,NL- Investigation Discovery
+http://smart-hdip.com:6204/said/123/9550
+#EXTINF:-1,NL- Baby TV
+http://smart-hdip.com:6204/said/123/9581
+#EXTINF:-1,NL- Boomerang
+http://smart-hdip.com:6204/said/123/9580
+#EXTINF:-1,NL- Cartoon Network
+http://smart-hdip.com:6204/said/123/9579
+#EXTINF:-1,NL- Disney Channel
+http://smart-hdip.com:6204/said/123/9573
+#EXTINF:-1,NL- Disney Channel NL
+http://smart-hdip.com:6204/said/123/11065
+#EXTINF:-1,NL- Disney Junior NL
+http://smart-hdip.com:6204/said/123/11064
+#EXTINF:-1,NL- Veronica Disney XD Full HD
+http://smart-hdip.com:6204/said/123/11191
+#EXTINF:-1,NL- Veronica/DisneyXD
+http://smart-hdip.com:6204/said/123/9523
+#EXTINF:-1,NL- JimJam
+http://smart-hdip.com:6204/said/123/9549
+#EXTINF:-1,NL- Nick JR.
+http://smart-hdip.com:6204/said/123/9544
+#EXTINF:-1,NL- Nick Toons
+http://smart-hdip.com:6204/said/123/9543
+#EXTINF:-1,NL- Nickenldeon HD / Spike Channel
+http://smart-hdip.com:6204/said/123/9542
+#EXTINF:-1,NL- Motors TV
+http://smart-hdip.com:6204/said/123/9547
+#EXTINF:-1,NL- Extreme Sports
+http://smart-hdip.com:6204/said/123/9568
+#EXTINF:-1,NL- EuroSport 1 HD
+http://smart-hdip.com:6204/said/123/9570
+#EXTINF:-1,NL- EuroSport 2 HD
+http://smart-hdip.com:6204/said/123/9569
+#EXTINF:-1,NL- EDGE Sport HD NL
+http://smart-hdip.com:6204/said/123/11062
+#EXTINF:-1,NL- Ziggo Sport Voetbal
+http://smart-hdip.com:6204/said/123/9517
+#EXTINF:-1,NL- Ziggo Sport Select HD
+http://smart-hdip.com:6204/said/123/9518
+#EXTINF:-1,NL- Ziggo Sport Golf
+http://smart-hdip.com:6204/said/123/9520
+#EXTINF:-1,NL- Ziggo Sport Racing
+http://smart-hdip.com:6204/said/123/9519
+#EXTINF:-1,NL- Ziggo Sport Extra 1
+http://smart-hdip.com:6204/said/123/9522
+#EXTINF:-1,NL- Ziggo Sport Extra 2
+http://smart-hdip.com:6204/said/123/9521
+#EXTINF:-1,NL- Ziggo Sport Voetbal Backup
+http://smart-hdip.com:6204/said/123/11192
+#EXTINF:-1,NL- Ziggo Sport Select HD Backup
+http://smart-hdip.com:6204/said/123/11193
+#EXTINF:-1,NL- Ziggo Sport Golf Backup
+http://smart-hdip.com:6204/said/123/11194
+#EXTINF:-1,NL- Ziggo Sport Extra 1 Backup
+http://smart-hdip.com:6204/said/123/11196
+#EXTINF:-1,NL- Ziggo Sport Extra 2 Backup
+http://smart-hdip.com:6204/said/123/11195
+#EXTINF:-1,NL- Fox Sport 1 HD
+http://smart-hdip.com:6204/said/123/9561
+#EXTINF:-1,NL- Fox Sport 2 HD
+http://smart-hdip.com:6204/said/123/9560
+#EXTINF:-1,NL- Fox Sport 3 HD
+http://smart-hdip.com:6204/said/123/9559
+#EXTINF:-1,NL- Fox Sport 4 HD
+http://smart-hdip.com:6204/said/123/9558
+#EXTINF:-1,NL- Fox Sport 5 HD
+http://smart-hdip.com:6204/said/123/9557
+#EXTINF:-1,NL- Fox Sport 6 HD
+http://smart-hdip.com:6204/said/123/9556
+#EXTINF:-1,NL- Fox Sport 1 HD backup
+http://smart-hdip.com:6204/said/123/11202
+#EXTINF:-1,NL- Fox Sport 2 HD backup
+http://smart-hdip.com:6204/said/123/11201
+#EXTINF:-1,NL- Fox Sport 3 HD backup
+http://smart-hdip.com:6204/said/123/11200
+#EXTINF:-1,NL- Fox Sport 4 HD backup
+http://smart-hdip.com:6204/said/123/11199
+#EXTINF:-1,NL- Fox Sport 5 HD backup
+http://smart-hdip.com:6204/said/123/11198
+#EXTINF:-1,NL- Fox Sport 6 HD backup
+http://smart-hdip.com:6204/said/123/11197
+#EXTINF:-1,NL- FOX Sports 1 HD Backup2
+http://smart-hdip.com:6204/said/123/13549
+#EXTINF:-1,NL- FOX Sports 2 HD Backup2
+http://smart-hdip.com:6204/said/123/13548
+#EXTINF:-1,NL- FOX Sports 3 HD Backup2
+http://smart-hdip.com:6204/said/123/13547
+#EXTINF:-1,NL- FOX Sports 4 HD Backup2
+http://smart-hdip.com:6204/said/123/13546
+#EXTINF:-1,NL- FOX Sports 5 HD Backup2
+http://smart-hdip.com:6204/said/123/13545
+#EXTINF:-1,NL- FOX Sports 6 HD Backup2
+http://smart-hdip.com:6204/said/123/13544
+
+#EXTINF:-1,NL: NPO 1
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215592
+#EXTINF:-1,NL: NPO 2
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215591
+#EXTINF:-1,NL: NPO 3
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215590
+#EXTINF:-1,NL: NPO ZAPP XTRA
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996597
+#EXTINF:-1,NL: N1 HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215573
+#EXTINF:-1,NL: RTL 4
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215543
+#EXTINF:-1,NL: RTL5 HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215538
+#EXTINF:-1,NL: RTL7 HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215537
+#EXTINF:-1,NL: RTL 8 HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215586
+#EXTINF:-1,NL: RTL Telekids
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215605
+#EXTINF:-1,NL: RTL LOUNGE
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996598
+#EXTINF:-1,NL: RTL Z
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215585
+#EXTINF:-1,NL: RTV DRENTHE
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215569
+#EXTINF:-1,NL: RTV Kanaal 30
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215568
+#EXTINF:-1,NL: RTV RIJMOND
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215604
+#EXTINF:-1,NL: SBS 6
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215535
+#EXTINF:-1,NL: SBS 6 HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215534
+#EXTINF:-1,NL: SBS 7 HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215603
+#EXTINF:-1,NL: NET 5
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215548
+#EXTINF:-1,NL: NET.5.HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215593
+#EXTINF:-1,NL: AT5 HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215575
+#EXTINF:-1,NL: Ede TV  HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215574
+#EXTINF:-1,NL: FILM 1 ACTION HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215561
+#EXTINF:-1,NL: FILM 1 PREMIERE HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996601
+#EXTINF:-1,NL: FILM 1 SUNDANCE
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996602
+#EXTINF:-1,NL: FILM 1 FAMILY
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215560
+#EXTINF:-1,NL: FILM 1 COMEDY AND KIDS
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215599
+#EXTINF:-1,NL: Film.1.Premiere
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215598
+#EXTINF:-1,NL: Film.1.Spotlight
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215597
+#EXTINF:-1,NL: HBO 1
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215596
+#EXTINF:-1,NL: HBO 1 HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215552
+#EXTINF:-1,NL: HBO 2
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215595
+#EXTINF:-1,NL: HBO 3
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215594
+#EXTINF:-1,NL: HBO 3 HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215551
+#EXTINF:-1,NL: FOX SPORT 1
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215558
+#EXTINF:-1,NL: FOX SPORT 2
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215557
+#EXTINF:-1,NL: FOX SPORT 3
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215556
+#EXTINF:-1,NL: FOX SPORT 4
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215555
+#EXTINF:-1,NL: FOX SPORT 5
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215554
+#EXTINF:-1,NL: FOX SPORTS 6
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215553
+#EXTINF:-1,NL: SPORT 1 VOETBAL
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215602
+#EXTINF:-1,NL: SPORT 1 SELECT
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215581
+#EXTINF:-1,NL: Sport1.Golf
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215583
+#EXTINF:-1,NL: Sport1.Racing
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215582
+#EXTINF:-1,NL: Ziggo.Sport
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215578
+#EXTINF:-1,NL: ZIGGO SPORT EXTRA 1
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215531
+#EXTINF:-1,NL: ZIGGO SPORT EXTRA  2
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215530
+#EXTINF:-1,NL: ZIGGO SPORT 1 GOLF
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215533
+#EXTINF:-1,NL: ZIGGO SPORT 1 RACING
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215532
+#EXTINF:-1,NL: EDGE SPORT HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996594
+#EXTINF:-1,NL: EUROSPORT
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996580
+#EXTINF:-1,NL: EUROSPORT 2
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996579
+#EXTINF:-1,NL: Extreme Sports
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215562
+#EXTINF:-1,NL: NICK JUNIOR
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215529
+#EXTINF:-1,NL: NICKELODEON
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215609
+#EXTINF:-1,NL: CARTOON NETWORK
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996589
+#EXTINF:-1,NL: CARTOON NETWORK KIDS
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996588
+#EXTINF:-1,NL: DISNEY CHANNEL KIDS
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996586
+#EXTINF:-1,NL: DISNEY JUNIOR
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996592
+#EXTINF:-1,NL: DISNEY JUNIOR KIDS
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996585
+#EXTINF:-1,NL: DISNEY XD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996590
+#EXTINF:-1,NL: JIM JAM KIDS
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996584
+#EXTINF:-1,NL: NICKTOONS
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996591
+#EXTINF:-1,NL: Omroep Flevoland  HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215571
+#EXTINF:-1,NL: Omroep Fryslan TV  HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215570
+#EXTINF:-1,NL: SALTO 1 HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215567
+#EXTINF:-1,NL: SALTO 2 HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215566
+#EXTINF:-1,NL: FOX
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215559
+#EXTINF:-1,NL: FOX HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215652
+#EXTINF:-1,NL: FOX LIFE
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996595
+#EXTINF:-1,NL: SYFY
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996599
+#EXTINF:-1,NL: COMEDY CENTRAL
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215608
+#EXTINF:-1,NL: E! ENTERTENEMENT HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996593
+#EXTINF:-1,NL: VERONICA
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215579
+#EXTINF:-1,NL: 13TH STREET
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996581
+#EXTINF:-1,NL: COMEDY CENTRAL EXTRA
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996582
+#EXTINF:-1,NL: 24 KITCHEN HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996587
+#EXTINF:-1,NL: CRIME & INVESTIGATION
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996583
+#EXTINF:-1,NL: NAT GEO WILD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996596
+#EXTINF:-1,NL: NATIONAL GEOGRAPHIC HD
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/99996600
+#EXTINF:-1,NL: TV Krimpenewaard
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215565
+#EXTINF:-1,NL: WOS TV
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215564
+#EXTINF:-1,NL: Zeeland Televisie
+http://source.vision-new.org:5000/revendeurs/ghsoutest123/215563
+
+#EXTINF:-1,(NL) 24Kitchen
+http://www.nilsattv.com:8080/zafer/zafer123/1893
+#EXTINF:-1,(NL) Boomerang
+http://www.nilsattv.com:8080/zafer/zafer123/1894
+#EXTINF:-1,(NL) Film Action
+http://www.nilsattv.com:8080/zafer/zafer123/1895
+#EXTINF:-1,(NL) Film Premiere HD
+http://www.nilsattv.com:8080/zafer/zafer123/1897
+#EXTINF:-1,(NL) Film Drama
+http://www.nilsattv.com:8080/zafer/zafer123/1898
+#EXTINF:-1,(NL) Film Family
+http://www.nilsattv.com:8080/zafer/zafer123/1896
+#EXTINF:-1,(NL) npo 1 HD
+http://www.nilsattv.com:8080/zafer/zafer123/1900
+#EXTINF:-1,(NL) FOX channel
+http://www.nilsattv.com:8080/zafer/zafer123/1899
+#EXTINF:-1,(NL) npo 2 HD
+http://www.nilsattv.com:8080/zafer/zafer123/1901
+#EXTINF:-1,(NL) npo 3 / Zapp HD
+http://www.nilsattv.com:8080/zafer/zafer123/1902
+
+#EXTINF:-1,NL- RTL 4 FHD
+http://smart-hdip.com:6204/atef/123/9534
+#EXTINF:-1,NL- RTL 5 FHD
+http://smart-hdip.com:6204/atef/123/9533
+#EXTINF:-1,NL- RTL 7 FHD
+http://smart-hdip.com:6204/atef/123/9532
+#EXTINF:-1,NL- RTL 8 FHD
+http://smart-hdip.com:6204/atef/123/9531
+#EXTINF:-1,NL- RTL Crime HD
+http://smart-hdip.com:6204/atef/123/9530
+#EXTINF:-1,NL- RTL Lounge
+http://smart-hdip.com:6204/atef/123/9529
+#EXTINF:-1,NL- RTL Z
+http://smart-hdip.com:6204/atef/123/9528
+#EXTINF:-1,NL- RTL 4 FHD Backup
+http://smart-hdip.com:6204/atef/123/13537
+#EXTINF:-1,NL- RTL 5 FHD Backup
+http://smart-hdip.com:6204/atef/123/13536
+#EXTINF:-1,NL- RTL 7 FHD Backup
+http://smart-hdip.com:6204/atef/123/13535
+#EXTINF:-1,NL- RTL 8 FHD Backup
+http://smart-hdip.com:6204/atef/123/13534
+#EXTINF:-1,NL- RTL Crime HD Backup
+http://smart-hdip.com:6204/atef/123/13533
+#EXTINF:-1,NL- RTL Lounge Backup
+http://smart-hdip.com:6204/atef/123/13532
+#EXTINF:-1,NL- RTL Z Backup
+http://smart-hdip.com:6204/atef/123/13529
+#EXTINF:-1,NL- RTL Telekids FHD
+http://smart-hdip.com:6204/atef/123/13531
+#EXTINF:-1,NL- RTL Telekids HD
+http://smart-hdip.com:6204/atef/123/13530
+#EXTINF:-1,NL- RTL Telekids
+http://smart-hdip.com:6204/atef/123/11051
+#EXTINF:-1,NL- NPO 101
+http://smart-hdip.com:6204/atef/123/9540
+#EXTINF:-1,NL- NPO 1 HD
+http://smart-hdip.com:6204/atef/123/9541
+#EXTINF:-1,NL- NPO 2 HD
+http://smart-hdip.com:6204/atef/123/9539
+#EXTINF:-1,NL- NPO 3 HD
+http://smart-hdip.com:6204/atef/123/9538
+#EXTINF:-1,NL- NPO HUMOR
+http://smart-hdip.com:6204/atef/123/9537
+#EXTINF:-1,NL- NPO Politiek
+http://smart-hdip.com:6204/atef/123/9536
+#EXTINF:-1,NL- NPO Zapp Xtra/NPO Humor TV
+http://smart-hdip.com:6204/atef/123/9535
+#EXTINF:-1,NL- NPO Best/Zapp Xtra NL
+http://smart-hdip.com:6204/atef/123/11055
+#EXTINF:-1,NL- NPO Cultura NL
+http://smart-hdip.com:6204/atef/123/11054
+#EXTINF:-1,NL- NPO Humor TV NL
+http://smart-hdip.com:6204/atef/123/11053
+#EXTINF:-1,NL- NPO Politiek NL
+http://smart-hdip.com:6204/atef/123/11052
+#EXTINF:-1,NL- NPO 1 HD Backup
+http://smart-hdip.com:6204/atef/123/13543
+#EXTINF:-1,NL- NPO 2 HD Backup
+http://smart-hdip.com:6204/atef/123/13542
+#EXTINF:-1,NL- NPO 3 Backup
+http://smart-hdip.com:6204/atef/123/13541
+#EXTINF:-1,NL- NPO 3 Extra Backup
+http://smart-hdip.com:6204/atef/123/13540
+#EXTINF:-1,NL- NPO Politiek Backup
+http://smart-hdip.com:6204/atef/123/13539
+#EXTINF:-1,NL- NPO Zapp HD Backup
+http://smart-hdip.com:6204/atef/123/13538
+#EXTINF:-1,NL- SBS 9
+http://smart-hdip.com:6204/atef/123/9527
+#EXTINF:-1,NL- SBS6 HD
+http://smart-hdip.com:6204/atef/123/9526
+#EXTINF:-1,NL- SBS 9 HD Backup
+http://smart-hdip.com:6204/atef/123/13551
+#EXTINF:-1,NL- SBS6 HD Backup
+http://smart-hdip.com:6204/atef/123/13550
+#EXTINF:-1,NL- Film1 Action HD
+http://smart-hdip.com:6204/atef/123/9567
+#EXTINF:-1,NL- Film1 Family HD
+http://smart-hdip.com:6204/atef/123/9566
+#EXTINF:-1,NL- Film1 Premiere HD
+http://smart-hdip.com:6204/atef/123/9565
+#EXTINF:-1,NL- Film1 Drama HD
+http://smart-hdip.com:6204/atef/123/9564
+#EXTINF:-1,NL- Film1 Action HD Backup
+http://smart-hdip.com:6204/atef/123/13528
+#EXTINF:-1,NL- Film1 Family HD Backup
+http://smart-hdip.com:6204/atef/123/13526
+#EXTINF:-1,NL- Film1 Premiere HD Backup
+http://smart-hdip.com:6204/atef/123/13525
+#EXTINF:-1,NL- Film1 Drama HD Backup
+http://smart-hdip.com:6204/atef/123/13527
+#EXTINF:-1,NL- Look TV
+http://smart-hdip.com:6204/atef/123/9553
+#EXTINF:-1,NL- 192TV
+http://smart-hdip.com:6204/atef/123/9584
+#EXTINF:-1,NL- 24 Kitchen HD
+http://smart-hdip.com:6204/atef/123/9583
+#EXTINF:-1,NL- Comedy Central HD
+http://smart-hdip.com:6204/atef/123/9577
+#EXTINF:-1,NL- Crime & Investigation
+http://smart-hdip.com:6204/atef/123/9576
+#EXTINF:-1,NL- Comedy Central Eextra
+http://smart-hdip.com:6204/atef/123/9578
+#EXTINF:-1,NL- Duck TV
+http://smart-hdip.com:6204/atef/123/9572
+#EXTINF:-1,NL- E!
+http://smart-hdip.com:6204/atef/123/9571
+#EXTINF:-1,NL- iConcerts HD
+http://smart-hdip.com:6204/atef/123/9551
+#EXTINF:-1,NL- Ketnet HD
+http://smart-hdip.com:6204/atef/123/9548
+#EXTINF:-1,NL- NET 5 HD
+http://smart-hdip.com:6204/atef/123/9545
+#EXTINF:-1,NL- Omroep Brabant NL
+http://smart-hdip.com:6204/atef/123/11019
+#EXTINF:-1,NL- Omroep Flevoland NL
+http://smart-hdip.com:6204/atef/123/11018
+#EXTINF:-1,NL- Omroep Gelderland NL
+http://smart-hdip.com:6204/atef/123/11017
+#EXTINF:-1,NL- Omroep West NL
+http://smart-hdip.com:6204/atef/123/11016
+#EXTINF:-1,NL- Omroep Zeeland NL
+http://smart-hdip.com:6204/atef/123/11015
+#EXTINF:-1,NL- Omrop Fryslan NL
+http://smart-hdip.com:6204/atef/123/11014
+#EXTINF:-1,NL- RTV Drenthe NL
+http://smart-hdip.com:6204/atef/123/11012
+#EXTINF:-1,NL- RTV Noord NL
+http://smart-hdip.com:6204/atef/123/11011
+#EXTINF:-1,NL- RTV Oost NL
+http://smart-hdip.com:6204/atef/123/11010
+#EXTINF:-1,NL- RTV Dordrecht NL
+http://smart-hdip.com:6204/atef/123/11050
+#EXTINF:-1,NL- RTV Purmerend NL
+http://smart-hdip.com:6204/atef/123/11049
+#EXTINF:-1,NL- RTV Rijnmond NL
+http://smart-hdip.com:6204/atef/123/11048
+#EXTINF:-1,NL- RTV Slingeland NL
+http://smart-hdip.com:6204/atef/123/11047
+#EXTINF:-1,NL- RTV Slos NL
+http://smart-hdip.com:6204/atef/123/11046
+#EXTINF:-1,NL- RTV Totaal NL
+http://smart-hdip.com:6204/atef/123/11045
+#EXTINF:-1,NL- RTV Utrecht NL
+http://smart-hdip.com:6204/atef/123/11044
+#EXTINF:-1,NL- MTV NL
+http://smart-hdip.com:6204/atef/123/11057
+#EXTINF:-1,NL- MTV Hits NL
+http://smart-hdip.com:6204/atef/123/11059
+#EXTINF:-1,NL- MTV Music 24 NL
+http://smart-hdip.com:6204/atef/123/11058
+#EXTINF:-1,NL- AT 5 NL
+http://smart-hdip.com:6204/atef/123/11024
+#EXTINF:-1,NL- L1 TV NL
+http://smart-hdip.com:6204/atef/123/11022
+#EXTINF:-1,Nl- Nick Music NL
+http://smart-hdip.com:6204/atef/123/11021
+#EXTINF:-1,NL- ONS NL
+http://smart-hdip.com:6204/atef/123/11013
+#EXTINF:-1,NL- Spike NL
+http://smart-hdip.com:6204/atef/123/11009
+#EXTINF:-1,NL- TV 538 NL
+http://smart-hdip.com:6204/atef/123/11007
+#EXTINF:-1,NL- WOS NL
+http://smart-hdip.com:6204/atef/123/11006
+#EXTINF:-1,NL- The Q You HD NL
+http://smart-hdip.com:6204/atef/123/11008
+#EXTINF:-1,NL- TLC
+http://smart-hdip.com:6204/atef/123/9525
+#EXTINF:-1,NL- TV Oranje
+http://smart-hdip.com:6204/atef/123/9524
+#EXTINF:-1,NL- Fox Channel HD
+http://smart-hdip.com:6204/atef/123/9562
+#EXTINF:-1,NL- BBC Entertainment NL
+http://smart-hdip.com:6204/atef/123/11066
+#EXTINF:-1,NL- EDE TV NL
+http://smart-hdip.com:6204/atef/123/11063
+#EXTINF:-1,NL- Feel Good TV NL
+http://smart-hdip.com:6204/atef/123/11061
+#EXTINF:-1,NL- Klipkar TV NL
+http://smart-hdip.com:6204/atef/123/11060
+#EXTINF:-1,NL- Salto 1 NL
+http://smart-hdip.com:6204/atef/123/11043
+#EXTINF:-1,NL- Salto 2 NL
+http://smart-hdip.com:6204/atef/123/11042
+#EXTINF:-1,NL- Slam! NL
+http://smart-hdip.com:6204/atef/123/11041
+#EXTINF:-1,NL- Slotstad RTV NL
+http://smart-hdip.com:6204/atef/123/11040
+#EXTINF:-1,NL- Stringray Djazz FHD NL
+http://smart-hdip.com:6204/atef/123/11039
+#EXTINF:-1,NL- Viceland HD NL
+http://smart-hdip.com:6204/atef/123/11038
+#EXTINF:-1,NL- Animal Planet
+http://smart-hdip.com:6204/atef/123/9582
+#EXTINF:-1,NL- Nat Geo Wild HD
+http://smart-hdip.com:6204/atef/123/9546
+#EXTINF:-1,NL- National Geographic HD NL
+http://smart-hdip.com:6204/atef/123/11056
+#EXTINF:-1,NL- History HD DUT
+http://smart-hdip.com:6204/atef/123/9552
+#EXTINF:-1,NL- Discovery Channel
+http://smart-hdip.com:6204/atef/123/9575
+#EXTINF:-1,NL- Discovery Showcase HD
+http://smart-hdip.com:6204/atef/123/9574
+#EXTINF:-1,NL- Investigation Discovery
+http://smart-hdip.com:6204/atef/123/9550
+#EXTINF:-1,NL- Baby TV
+http://smart-hdip.com:6204/atef/123/9581
+#EXTINF:-1,NL- Boomerang
+http://smart-hdip.com:6204/atef/123/9580
+#EXTINF:-1,NL- Cartoon Network
+http://smart-hdip.com:6204/atef/123/9579
+#EXTINF:-1,NL- Disney Channel
+http://smart-hdip.com:6204/atef/123/9573
+#EXTINF:-1,NL- Disney Channel NL
+http://smart-hdip.com:6204/atef/123/11065
+#EXTINF:-1,NL- Disney Junior NL
+http://smart-hdip.com:6204/atef/123/11064
+#EXTINF:-1,NL- Veronica Disney XD Full HD
+http://smart-hdip.com:6204/atef/123/11191
+#EXTINF:-1,NL- Veronica/DisneyXD
+http://smart-hdip.com:6204/atef/123/9523
+#EXTINF:-1,NL- JimJam
+http://smart-hdip.com:6204/atef/123/9549
+#EXTINF:-1,NL- Nick JR.
+http://smart-hdip.com:6204/atef/123/9544
+#EXTINF:-1,NL- Nick Toons
+http://smart-hdip.com:6204/atef/123/9543
+#EXTINF:-1,NL- Nickenldeon HD / Spike Channel
+http://smart-hdip.com:6204/atef/123/9542
+#EXTINF:-1,NL- Motors TV
+http://smart-hdip.com:6204/atef/123/9547
+#EXTINF:-1,NL- Extreme Sports
+http://smart-hdip.com:6204/atef/123/9568
+#EXTINF:-1,NL- EuroSport 1 HD
+http://smart-hdip.com:6204/atef/123/9570
+#EXTINF:-1,NL- EuroSport 2 HD
+http://smart-hdip.com:6204/atef/123/9569
+#EXTINF:-1,NL- EDGE Sport HD NL
+http://smart-hdip.com:6204/atef/123/11062
+#EXTINF:-1,NL- Ziggo Sport Voetbal
+http://smart-hdip.com:6204/atef/123/9517
+#EXTINF:-1,NL- Ziggo Sport Select HD
+http://smart-hdip.com:6204/atef/123/9518
+#EXTINF:-1,NL- Ziggo Sport Golf
+http://smart-hdip.com:6204/atef/123/9520
+#EXTINF:-1,NL- Ziggo Sport Racing
+http://smart-hdip.com:6204/atef/123/9519
+#EXTINF:-1,NL- Ziggo Sport Extra 1
+http://smart-hdip.com:6204/atef/123/9522
+#EXTINF:-1,NL- Ziggo Sport Extra 2
+http://smart-hdip.com:6204/atef/123/9521
+#EXTINF:-1,NL- Ziggo Sport Voetbal Backup
+http://smart-hdip.com:6204/atef/123/11192
+#EXTINF:-1,NL- Ziggo Sport Select HD Backup
+http://smart-hdip.com:6204/atef/123/11193
+#EXTINF:-1,NL- Ziggo Sport Golf Backup
+http://smart-hdip.com:6204/atef/123/11194
+#EXTINF:-1,NL- Ziggo Sport Extra 1 Backup
+http://smart-hdip.com:6204/atef/123/11196
+#EXTINF:-1,NL- Ziggo Sport Extra 2 Backup
+http://smart-hdip.com:6204/atef/123/11195
+#EXTINF:-1,NL- Fox Sport 1 HD
+http://smart-hdip.com:6204/atef/123/9561
+#EXTINF:-1,NL- Fox Sport 2 HD
+http://smart-hdip.com:6204/atef/123/9560
+#EXTINF:-1,NL- Fox Sport 3 HD
+http://smart-hdip.com:6204/atef/123/9559
+#EXTINF:-1,NL- Fox Sport 4 HD
+http://smart-hdip.com:6204/atef/123/9558
+#EXTINF:-1,NL- Fox Sport 5 HD
+http://smart-hdip.com:6204/atef/123/9557
+#EXTINF:-1,NL- Fox Sport 6 HD
+http://smart-hdip.com:6204/atef/123/9556
+#EXTINF:-1,NL- Fox Sport 1 HD backup
+http://smart-hdip.com:6204/atef/123/11202
+#EXTINF:-1,NL- Fox Sport 2 HD backup
+http://smart-hdip.com:6204/atef/123/11201
+#EXTINF:-1,NL- Fox Sport 3 HD backup
+http://smart-hdip.com:6204/atef/123/11200
+#EXTINF:-1,NL- Fox Sport 4 HD backup
+http://smart-hdip.com:6204/atef/123/11199
+#EXTINF:-1,NL- Fox Sport 5 HD backup
+http://smart-hdip.com:6204/atef/123/11198
+#EXTINF:-1,NL- Fox Sport 6 HD backup
+http://smart-hdip.com:6204/atef/123/11197
+#EXTINF:-1,NL- FOX Sports 1 HD Backup2
+http://smart-hdip.com:6204/atef/123/13549
+#EXTINF:-1,NL- FOX Sports 2 HD Backup2
+http://smart-hdip.com:6204/atef/123/13548
+#EXTINF:-1,NL- FOX Sports 3 HD Backup2
+http://smart-hdip.com:6204/atef/123/13547
+#EXTINF:-1,NL- FOX Sports 4 HD Backup2
+http://smart-hdip.com:6204/atef/123/13546
+#EXTINF:-1,NL- FOX Sports 5 HD Backup2
+http://smart-hdip.com:6204/atef/123/13545
+#EXTINF:-1,NL- FOX Sports 6 HD Backup2
+http://smart-hdip.com:6204/atef/123/13544
 
