@@ -1,379 +1,250 @@
 #EXTM3U
-#EXTINF:0 group-title="AF: Afghanistan",AF: AL KASS SPORTS 1 
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
-#EXTINF:0 group-title="AF: Afghanistan",AF: KTV SPORT 
-http://www.elahmad.com/tv/m3u8/ktv.m3u8
-#EXTINF:0 group-title="AF: Afghanistan",AF: SMASH SPORTS 
-http://144.76.182.50:25461/live/smash/smash/4.m3u8
-#EXTINF:0 group-title="AL: Albania",AL: RTSH SPORT HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/8906.m3u8
-#EXTINF:0 group-title="AL: Albania",AL: RTSH SPORT 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/8907.m3u8
-#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 1 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/748.m3u8
-#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 2 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/749.m3u8
-#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 3 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/750.m3u8
-#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 4 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/751.m3u8
-#EXTINF:0 group-title="AL: Albania",AL: TRING SPORT NEWS HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/747.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 HD
-http://www.elahmad.com/tv/m3u8/adtv.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 (1+) HD
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 (2+) HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 HD
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 (1+) HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT 5 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/2159.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORTS HD
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-#EXTINF:0 group-title="AR: Arabia",AR: YAS SPORTS UPDATED 
-http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
-#EXTINF:0 group-title="ARG: Argentina",ARG: CHELSEA TV 
-http://mrriptv.xyz:25461/live/Twisted/30/15575.m3u8
-#EXTINF:0 group-title="ARG: Argentina",ARG: LFC TV 
-http://mrriptv.xyz:25461/live/Twisted/30/15574.m3u8
-#EXTINF:0 group-title="ARG: Argentina",ARG: MUTV 
-http://mrriptv.xyz:25461/live/Twisted/30/15573.m3u8
-#EXTINF:0 group-title="BG: Bulgaria",BG: MTEL SPORT 
-http://87.246.0.130:88/m3u8/webmtelsport_web.m3u8
-#EXTINF:0 group-title="BG: Bulgaria",BG: SPORT PLUS HD
-http://87.246.0.130:88/m3u8/websportplus_web.m3u8
-#EXTINF:0 group-title="CA: Canada",CA: GOLF HD
-http://mrriptv.xyz:25461/live/Twisted/30/28745.m3u8
-#EXTINF:0 group-title="CA: Canada",CA: GOLF (1+) HD
-http://mrriptv.xyz:25461/live/Twisted/30/28746.m3u8
-#EXTINF:0 group-title="CA: Canada",CA: TVA SPORTS 
-http://mrriptv.xyz:25461/live/Twisted/30/28687.m3u8
-#EXTINF:0 group-title="FR: France",FR: BEIN SPORT 1 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/954.m3u8
-#EXTINF:0 group-title="FR: France",FR: BEIN SPORT 2 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/953.m3u8
-#EXTINF:0 group-title="FR: France",FR: BEIN SPORT 3 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/952.m3u8
-#EXTINF:0 group-title="FR: France",FR: BEINSPORT 4 MAX 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/8943.m3u8
-#EXTINF:0 group-title="FR: France",FR: BEINSPORT 5 MAX 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/8942.m3u8
-#EXTINF:0 group-title="FR: France",FR: BEINSPORT 6 MAX 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/8941.m3u8
-#EXTINF:0 group-title="FR: France",FR: BEINSPORT 7 MAX 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/8940.m3u8
-#EXTINF:0 group-title="FR: France",FR: CANAL SPORT HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/2539.m3u8
-#EXTINF:0 group-title="FR: France",FR: EUROSPORT 1 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/951.m3u8
-#EXTINF:0 group-title="FR: France",FR: EUROSPORT 2 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/950.m3u8
-#EXTINF:0 group-title="FR: France",FR: INFOSPORT 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/857.m3u8
-#EXTINF:0 group-title="FR: France",FR: SFR SPORT 1 HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/6355.m3u8
-#EXTINF:0 group-title="FR: France",FR: SFR SPORT 2 HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/6356.m3u8
-#EXTINF:0 group-title="FR: France",FR: SFR SPORT 3 HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/6357.m3u8
-#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 2 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/848.m3u8
-#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 3 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/849.m3u8
-#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT BUNDESLIGA 1 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/3045.m3u8
-#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT BUNDESLIGA1 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/1481.m3u8
-#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT NEWS HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/1482.m3u8
-#EXTINF:0 group-title="DE: Germany",DE: SKYSPORT 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/1483.m3u8
-#EXTINF:0 group-title="DE: Germany",DE: SKYSPORT 3 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/16174.m3u8
-#EXTINF:0 group-title="DE: Germany",DE: SKYSPORT 4 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/16173.m3u8
-#EXTINF:0 group-title="DE: Germany",DE: SKYSPORT 5 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/16172.m3u8
-#EXTINF:0 group-title="DE: Germany",DE: SPORT HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/1486.m3u8
-#EXTINF:0 group-title="DE: Germany",DE: THE RACES 
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/428.m3u8
-#EXTINF:0 group-title="GR: Greece",GR: GR2 HD
-http://mrriptv.xyz:25461/live/Twisted/30/21426.m3u8
-#EXTINF:0 group-title="IN: India",IN: DONBAS TV 
-http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
-#EXTINF:0 group-title="IT: Italy",IT: IRC SPORT TV 
-http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
-#EXTINF:0 group-title="IT: Italy",IT: RTV SAN MARINO SPORT 
-http://194.116.78.102:1935/webtv_live4/_definst_/9UXJ2BJMTMNR/playlist.m3u8
-#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 24 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/970.m3u8
-#EXTINF:0 group-title="IT: Italy",IT: TELEARENA 
-http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-#EXTINF:0 group-title="IT: Italy",IT: TELEROMAGNA SPORT 
-http://livetr.teleromagna.it/sport/live/playlist.m3u8
-#EXTINF:0 group-title="MX: Mexico",MX: TSM SPORTS 
-http://mediacp.live:1935/8028/8028/chunklist_w1479204348.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORT 1 EREDIVISIE HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/771.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 3 EREDIVISIE 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/769.m3u8
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 5 EREDIVISIE HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/767.m3u8
-#EXTINF:0 group-title="PL: Poland",PL: CANAL SPORT 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/8855.m3u8
-#EXTINF:0 group-title="PL: Poland",PL: CANAL SPORT 2 HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/8856.m3u8
-#EXTINF:0 group-title="PL: Poland",PL: EUROSPORT 1 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/8866.m3u8
-#EXTINF:0 group-title="PL: Poland",PL: EUROSPORT 2 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/8867.m3u8
-#EXTINF:0 group-title="PT: Portugal",PT: ALL SPORTS 
-http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
-#EXTINF:0 group-title="PT: Portugal",PT: ESPN 
-http://195.181.160.217:25461/live/eric/eric/4380.m3u8
-#EXTINF:0 group-title="PT: Portugal",PT: ESPN ALTERNATIVO 
-http://195.181.160.217:25461/live/eric/eric/11258.m3u8
-#EXTINF:0 group-title="PT: Portugal",PT: ESPN ALTERNATIVO (1+) 
-http://195.181.160.217:25461/live/Lazaro/123/11258.m3u8
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/3098.m3u8
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/2989.m3u8
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/2990.m3u8
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/2991.m3u8
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/2992.m3u8
-#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 1 
-http://dani.moppie.info:7444/live/Romanya-kanlarcahna/WRK0XSyTw6/16809.m3u8
-#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 2 
-http://dani.moppie.info:7444/live/Romanya-kanlarcahna/WRK0XSyTw6/16808.m3u8
-#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 3 
-http://dani.moppie.info:7444/live/Romanya-kanlarcahna/WRK0XSyTw6/16807.m3u8
-#EXTINF:0 group-title="RO: Romania",RO: EUROSPORT 
-http://dani.moppie.info:7444/live/Romanya-kanlarcahna/WRK0XSyTw6/16812.m3u8
-#EXTINF:0 group-title="RO: Romania",RO: EUROSPORT 2 
-http://dani.moppie.info:7444/live/Romanya-kanlarcahna/WRK0XSyTw6/16811.m3u8
-#EXTINF:0 group-title="RO: Romania",RO: SPORT 
-http://dani.moppie.info:7444/live/Romanya-kanlarcahna/WRK0XSyTw6/16810.m3u8
-#EXTINF:0 group-title="RU: Russia",RU: AUTOMOTO TV 
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/635/index.m3u8
-#EXTINF:0 group-title="RU: Russia",RU: BEIN SPORTS 
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
-#EXTINF:0 group-title="RU: Russia",RU: BEIN SPORTS (1+) 
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
-#EXTINF:0 group-title="RU: Russia",RU: EURO SPORT 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/11212.m3u8
-#EXTINF:0 group-title="RU: Russia",RU: EUROSPORT HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/11210.m3u8
-#EXTINF:0 group-title="RU: Russia",RU: EUROSPORT 2 HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/11211.m3u8
-#EXTINF:0 group-title="RU: Russia",RU: EUROSPORT 2 
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/471/index.m3u8
-#EXTINF:0 group-title="RU: Russia",RU: EXTREME SPORT 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/11209.m3u8
-#EXTINF:0 group-title="RU: Russia",RU: MATCH ARENA 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/11200.m3u8
-#EXTINF:0 group-title="RU: Russia",RU: MOVISTAR GOLF 
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
-#EXTINF:0 group-title="RU: Russia",RU: MOVISTAR GOLF (1+) 
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/569/index.m3u8
-#EXTINF:0 group-title="RU: Russia",RU: RAI SPORT 
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
-#EXTINF:0 group-title="RU: Russia",RU: SKY SPORT 1 
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/746/index.m3u8
-#EXTINF:0 group-title="RU: Russia",RU: VIASAT SPORT HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/11166.m3u8
-#EXTINF:0 group-title="RU: Russia",RU: VIASAT SPORT 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/11167.m3u8
-#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENA SPORT 1 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/3076.m3u8
-#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENA SPORT 1 (1+) 
-http://dream-tv.ddns.net:8000/live/iptvupdater/iptvupdater/226.m3u8
-#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENA SPORT 2 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/3077.m3u8
-#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENA SPORT 2 (1+) 
-http://dream-tv.ddns.net:8000/live/iptvupdater/iptvupdater/227.m3u8
-#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENA SPORT 3 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/3078.m3u8
-#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENA SPORT 3 (1+) 
-http://dream-tv.ddns.net:8000/live/iptvupdater/iptvupdater/228.m3u8
-#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENA SPORT 4 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/3079.m3u8
-#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENA SPORT 4 (1+) 
-http://dream-tv.ddns.net:8000/live/iptvupdater/iptvupdater/229.m3u8
-#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENA SPORT 5 
-http://dream-tv.ddns.net:8000/live/iptvupdater/iptvupdater/230.m3u8
-#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENA SPORT 6 
-http://dream-tv.ddns.net:8000/live/iptvupdater/iptvupdater/231.m3u8
-#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: SPORT KLUB 1 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1044.m3u8
-#EXTINF:0 group-title="SP: Spain",SP: BEIN SPORT 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/2639.m3u8
-#EXTINF:0 group-title="SP: Spain",SP: CANAL GOLF 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/11263.m3u8
-#EXTINF:0 group-title="SP: Spain",SP: EUROSPORT 1 HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/749.m3u8
-#EXTINF:0 group-title="SP: Spain",SP: EUROSPORT 2 
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/748.m3u8
-#EXTINF:0 group-title="SP: Spain",SP: FIGHT TIME 
-http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
-#EXTINF:0 group-title="SP: Spain",SP: M GOLF HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/750.m3u8
-#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR F1 HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.m3u8
-#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR F1 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/11273.m3u8
-#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR MOTO GP 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/11272.m3u8
-#EXTINF:0 group-title="SE: Sweden",SE: C MORE FOTBOLL HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/9732.m3u8
-#EXTINF:0 group-title="SE: Sweden",SE: C MORE FOTBOLL 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/9688.m3u8
-#EXTINF:0 group-title="SE: Sweden",SE: C MORE SPORT HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/9684.m3u8
-#EXTINF:0 group-title="SE: Sweden",SE: C MORE SPORT 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/9728.m3u8
-#EXTINF:0 group-title="SE: Sweden",SE: EUROSPORT 1 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/9722.m3u8
-#EXTINF:0 group-title="SE: Sweden",SE: SPORT PREMIUM 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/9675.m3u8
-#EXTINF:0 group-title="SE: Sweden",SE: TV3 SPORT 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/9709.m3u8
-#EXTINF:0 group-title="SE: Sweden",SE: TV3 SPORT 1 HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/9746.m3u8
-#EXTINF:0 group-title="SE: Sweden",SE: TV3 SPORT 2 HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/9745.m3u8
-#EXTINF:0 group-title="SE: Sweden",SE: VIASAT FOOTBALL HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/9739.m3u8
-#EXTINF:0 group-title="SE: Sweden",SE: VIASAT FOTBOLL 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/9699.m3u8
-#EXTINF:0 group-title="SE: Sweden",SE: VIASAT GOLF 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/9698.m3u8
-#EXTINF:0 group-title="SE: Sweden",SE: VIASAT MOTOR 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/9696.m3u8
-#EXTINF:0 group-title="SE: Sweden",SE: VIASAT SPORT HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/9735.m3u8
-#EXTINF:0 group-title="SE: Sweden",SE: VIASAT SPORT 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/9693.m3u8
-#EXTINF:0 group-title="SE: Sweden",SE: VIASAT SPORT PREMIUM 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/9692.m3u8
-#EXTINF:0 group-title="TR: Turkey",TR: CBC SPORT HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/11228.m3u8
-#EXTINF:0 group-title="TR: Turkey",TR: S SPORT 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/9234.m3u8
-#EXTINF:0 group-title="UA: Ukraine",UA: XSPORT 
-http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: CHELSEA TV 
-http://mrriptv.xyz:25461/live/Twisted/30/15570.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: FLOW SPORTS 
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: LFC TV 
-http://mrriptv.xyz:25461/live/Twisted/30/15569.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: NFL 2018 
-http://mrriptv.xyz:25461/live/Twisted/30/52186.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: NFL 2018 (1+) 
-http://mrriptv.xyz:25461/live/Twisted/30/52187.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: NFL 2018 (2+) 
-http://mrriptv.xyz:25461/live/Twisted/30/52188.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: NFL 2018 (3+) 
-http://mrriptv.xyz:25461/live/Twisted/30/52195.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: NFL 2018 (4+) 
-http://mrriptv.xyz:25461/live/Twisted/30/52196.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: NFL 2018 (5+) 
-http://mrriptv.xyz:25461/live/Twisted/30/52197.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: RACING 
-http://eirking.pro:8080/live/exchange/sGFHK47UC6/1729.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORT NEWS 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/1087.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORT PREMIER LEAGUE 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/1089.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS ACTION 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/1093.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS CRICKET 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/1092.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS F1 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/1088.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS GOLF 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/1090.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS MAIN EVENT 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/1091.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: SKYSPORTNEWS 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/1086.m3u8
-#EXTINF:0 group-title="UK: United Kingdom",UK: WILL & GRACE 
-http://mrriptv.xyz:25461/live/Twisted/30/52191.m3u8
-#EXTINF:0 group-title="US: United States",US: AUTOMOTO TV 
-http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
-#EXTINF:0 group-title="US: United States",US: ESPN 2 
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:0 group-title="US: United States",US: FOX SPORTS RACING 
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:0 group-title="US: United States",US: JUSTICE LEAGUE 2017 
-https://bobmovies.net/hl/Justice.League.2017_hd.m3u8
-#EXTINF:0 group-title="US: United States",US: MLB NETWORK 
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:0 group-title="US: United States",US: SPORT1 HD
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/1485.m3u8
-#EXTINF:0 group-title="US: United States",US: SPORTS 
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-#EXTINF:0 group-title="US: United States",US: UFC FIGHT PASS HD
-http://iptv-worlds.ga:8080/live/Juan20conx/djj454f8478f/76764.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: AR BEIN SPORTS 1 
-http://world-ipsat.com:1155/live/najib/2018/2048.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: AR BEIN SPORTS 17HD ES 
-http://world-ipsat.com:1155/live/najib/2018/4654.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: AR BEIN SPORTS 4 
-http://world-ipsat.com:1155/live/najib/2018/2051.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: AR BEIN-SPORTS-1SD 
-http://world-ipsat.com:1155/live/najib/2018/5404.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: AR NILE SPORT HD
-http://world-ipsat.com:1155/live/najib/2018/1749.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: BEIN SPORTS 1 HD
-http://mediabox.world:80/live/seriesitpvworld/v2JNPsYUEO/47793.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: BEIN SPORTS 2 HD
-http://mediabox.world:80/live/seriesitpvworld/v2JNPsYUEO/47792.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: CA NBA TV 
-http://world-ipsat.com:1155/live/najib/2018/2680.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: ES BEIN SPORT ES HD
-http://world-ipsat.com:1155/live/najib/2018/1414.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: EUROSPORT 2 UHD 
-http://mediabox.world:80/live/seriesitpvworld/v2JNPsYUEO/53456.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: FISHING NETWORK 
-http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: FOX SPORTS 2 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/770.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: FOX SPORTS 4 
-http://formenx.com:8080/live/kizildag/k90VqzEJJd/768.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: FR CANAL SPORT 
-http://world-ipsat.com:1155/live/najib/2018/3781.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: FR EUROSPORT 2HD 
-http://world-ipsat.com:1155/live/najib/2018/17.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: GOLF CHANNEL UHD 
-http://mediabox.world:80/live/seriesitpvworld/v2JNPsYUEO/53453.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: INFOSPORT UHD 
-http://mediabox.world:80/live/seriesitpvworld/v2JNPsYUEO/53455.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: IT SKY SPORT 3HD 
-http://world-ipsat.com:1155/live/najib/2018/1352.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: M BEINSPORTS 
-http://world-ipsat.com:1155/live/najib/2018/4994.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: MYSPORTS 1 UHD 
-http://mediabox.world:80/live/seriesitpvworld/v2JNPsYUEO/48698.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: RMC SPORT 1 UHD 
-http://mediabox.world:80/live/seriesitpvworld/v2JNPsYUEO/58249.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: RMC SPORT 2 UHD 
-http://mediabox.world:80/live/seriesitpvworld/v2JNPsYUEO/58250.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: RMC SPORT ACCESS 1 UHD 
-http://mediabox.world:80/live/seriesitpvworld/v2JNPsYUEO/58064.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: RMC SPORT NEWS UHD 
-http://mediabox.world:80/live/seriesitpvworld/v2JNPsYUEO/53458.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: USA BEIN SPORTS USA HD
-http://world-ipsat.com:1155/live/najib/2018/2329.m3u8
-#EXTINF:0 group-title="WW: World Wide",WW: USA ESPN 1HD 
-http://world-ipsat.com:1155/live/najib/2018/1457.m3u8
+#EXTINF:-1 tvg-ID="boomerang.nl" tvg-name="NL: Boomerang" tvg-logo="http://iptvreseller.xyz:1234/Anh/boomerang.png" group-title="Netherlands",NL: Boomerang
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3929
+#EXTINF:-1 tvg-ID="comedycentral.nl" tvg-name="NL : Comedy Central" tvg-logo="http://iptvreseller.xyz:1234/Anh/comedycentral.png" group-title="Netherlands",NL : Comedy Central
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3928
+#EXTINF:-1 tvg-ID="discoverychannel.nl" tvg-name="NL : Discovery Channel" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoverychannel.png" group-title="Netherlands",NL : Discovery Channel
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3927
+#EXTINF:-1 tvg-ID="disneychannel.nl" tvg-name="NL : Disney Channel" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneychannel.png" group-title="Netherlands",NL : Disney Channel
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3926
+#EXTINF:-1 tvg-ID="film1action.nl" tvg-name="NL: Film1 Action" tvg-logo="http://iptvreseller.xyz:1234/Anh/film1action.png" group-title="Netherlands",NL: Film1 Action
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3925
+#EXTINF:-1 tvg-ID="" tvg-name="NL : Film1 Comedy & Kids" tvg-logo="http://iptvreseller.xyz:1234/Anh/Film1ComedyandKids.png" group-title="Netherlands",NL : Film1 Comedy & Kids
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3924
+#EXTINF:-1 tvg-ID="" tvg-name="NL : Film1 Spotlight" tvg-logo="http://iptvreseller.xyz:1234/Anh/Film1Spotlight.png" group-title="Netherlands",NL : Film1 Spotlight
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3922
+#EXTINF:-1 tvg-ID="fox.nl" tvg-name="NL : FOX Channel" tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" group-title="Netherlands",NL : FOX Channel
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3920
+#EXTINF:-1 tvg-ID="" tvg-name="NL: HBO" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo.png" group-title="Netherlands",NL: HBO
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3919
+#EXTINF:-1 tvg-ID="" tvg-name="NL: HBO 3" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo3.png" group-title="Netherlands",NL: HBO 3
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3917
+#EXTINF:-1 tvg-ID="history.nl" tvg-name="NL : History" tvg-logo="http://iptvreseller.xyz:1234/Anh/history.png" group-title="Netherlands",NL : History
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3916
+#EXTINF:-1 tvg-ID="natgeo.nl" tvg-name="NL: National Geographic" tvg-logo="http://iptvreseller.xyz:1234/Anh/nationalgeographic.png" group-title="Netherlands",NL: National Geographic
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3912
+#EXTINF:-1 tvg-ID="nickjr.nl" tvg-name="NL: Nick Jr" tvg-logo="http://iptvreseller.xyz:1234/Anh/nickjr.png" group-title="Netherlands",NL: Nick Jr
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3910
+#EXTINF:-1 tvg-ID="nickelodeon.nl" tvg-name="NL: Nickelodeon" tvg-logo="http://iptvreseller.xyz:1234/Anh/nickelodeon.png" group-title="Netherlands",NL: Nickelodeon
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3911
+#EXTINF:-1 tvg-ID="npo1.nl" tvg-name="NL : NPO 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/npo1.png" group-title="Netherlands",NL : NPO 1
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3909
+#EXTINF:-1 tvg-ID="npo2.nl" tvg-name="NL : NPO 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/npo2.png" group-title="Netherlands",NL : NPO 2
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3908
+#EXTINF:-1 tvg-ID="rtl5.nl" tvg-name="NL : RTL 5" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtl5.png" group-title="Netherlands",NL : RTL 5
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3904
+#EXTINF:-1 tvg-ID="rtl7.nl" tvg-name="NL : RTL 7" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtl7.png" group-title="Netherlands",NL : RTL 7
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3903
+#EXTINF:-1 tvg-ID="rtl8.nl" tvg-name="NL : RTL 8" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtl8.png" group-title="Netherlands",NL : RTL 8
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3902
+#EXTINF:-1 tvg-ID="Syfy" tvg-name="NL : SYFY" tvg-logo="http://iptvreseller.xyz:1234/Anh/syfy.png" group-title="Netherlands",NL : SYFY
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3898
+#EXTINF:-1 tvg-ID="veronicadisneyxd.nl" tvg-name="NL : Veronica Disney XD" tvg-logo="http://iptvreseller.xyz:1234/Anh/veronica.png" group-title="Netherlands",NL : Veronica Disney XD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3896
+#EXTINF:-1 tvg-ID="ziggosportextra2.nl" tvg-name="NL : Ziggo Sport Extra2" tvg-logo="http://iptvreseller.xyz:1234/Anh/ziggosportextra2.png" group-title="Netherlands",NL : Ziggo Sport Extra2
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3894
+#EXTINF:-1 tvg-ID="ziggosportgolf.nl" tvg-name="NL : Ziggo Sport Golf" tvg-logo="http://iptvreseller.xyz:1234/Anh/ziggosport.png" group-title="Netherlands",NL : Ziggo Sport Golf
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3893
+#EXTINF:-1 tvg-ID="ziggosportselect.nl" tvg-name="NL: Ziggo Sport Select HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ziggosport.png" group-title="Netherlands",NL: Ziggo Sport Select HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3892
+#EXTINF:-1 tvg-ID="ziggosportvoetbal.nl" tvg-name="NL : Ziggo Sport.Voetbal" tvg-logo="http://iptvreseller.xyz:1234/Anh/ziggosport.png" group-title="Netherlands",NL : Ziggo Sport.Voetbal
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3891
+#EXTINF:-1 tvg-ID="13TH STREET" tvg-name="NL: 13th" tvg-logo="http://iptvreseller.xyz:1234/Anh/13thstreet.png" group-title="Netherlands",NL: 13th
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3931
+#EXTINF:-1 tvg-ID="192tv.nl" tvg-name="NL: 192 TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/192tv.png" group-title="Netherlands",NL: 192 TV
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17764
+#EXTINF:-1 tvg-ID="24kitchen.nl" tvg-name="NL: 24 Kitchen" tvg-logo="http://iptvreseller.xyz:1234/Anh/24kitchen.png" group-title="Netherlands",NL: 24 Kitchen
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16998
+#EXTINF:-1 tvg-ID="animalplanet.nl" tvg-name="NL: Animal Planet" tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanet.png" group-title="Netherlands",NL: Animal Planet
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3930
+#EXTINF:-1 tvg-ID="at5.nl" tvg-name="NL: AT 5" tvg-logo="http://iptvreseller.xyz:1234/Anh/at5.png" group-title="Netherlands",NL: AT 5
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17743
+#EXTINF:-1 tvg-ID="at5.nl" tvg-name="NL: AT5" tvg-logo="http://iptvreseller.xyz:1234/Anh/at5.png" group-title="Netherlands",NL: AT5
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/8672
+#EXTINF:-1 tvg-ID="" tvg-name="NL: AT5 HD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/at5.png" group-title="Netherlands",NL: AT5 HD 1080
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/8671
+#EXTINF:-1 tvg-ID="babytv.nl" tvg-name="NL: Baby TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/babytv.png" group-title="Netherlands",NL: Baby TV
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17191
+#EXTINF:-1 tvg-ID="cartoonnetwork.nl" tvg-name="NL: Cartoon Network" tvg-logo="http://iptvreseller.xyz:1234/Anh/cartoonnetwork.png" group-title="Netherlands",NL: Cartoon Network
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16145
+#EXTINF:-1 tvg-ID="discoveryscience.nl" tvg-name="NL: Discovery Science" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryscience.png" group-title="Netherlands",NL: Discovery Science
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17634
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Discovery Showcase HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryshowcasehd.png" group-title="Netherlands",NL: Discovery Showcase HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17632
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Discovery World" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryworld.png" group-title="Netherlands",NL: Discovery World
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17633
+#EXTINF:-1 tvg-ID="disneyjunior.nl" tvg-name="NL: Disney Junior" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyjunior.png" group-title="Netherlands",NL: Disney Junior
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16146
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Djazz TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/DjazzTV.png" group-title="Netherlands",NL: Djazz TV
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17762
+#EXTINF:-1 tvg-ID="eentertainment.nl" tvg-name="NL: E! Entertainment" tvg-logo="http://iptvreseller.xyz:1234/Anh/eentertainment.png" group-title="Netherlands",NL: E! Entertainment
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16999
+#EXTINF:-1 tvg-ID="eurosport1.nl" tvg-name="NL: Eurosport 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/eurosport1.png" group-title="Netherlands",NL: Eurosport 1
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16147
+#EXTINF:-1 tvg-ID="eurosport1.nl" tvg-name="NL: Eurosport 1 FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/eurosport1hd.png" group-title="Netherlands",NL: Eurosport 1 FHD 1080
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/5654
+#EXTINF:-1 tvg-ID="eurosport2.nl" tvg-name="NL: Eurosport 2 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/eurosport2hd.png" group-title="Netherlands",NL: Eurosport 2 HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/5655
+#EXTINF:-1 tvg-ID="Extreme Sports NL" tvg-name="NL: Extreme Sports" tvg-logo="http://iptvreseller.xyz:1234/Anh/extremesports.png" group-title="Netherlands",NL: Extreme Sports
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17766
+#EXTINF:-1 tvg-ID="film1premiere.nl" tvg-name="NL: Film 1 Drama" tvg-logo="http://iptvreseller.xyz:1234/Anh/film1drama.png" group-title="Netherlands",NL: Film 1 Drama
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16392
+#EXTINF:-1 tvg-ID="film1family.nl" tvg-name="NL: Film 1 Family" tvg-logo="http://iptvreseller.xyz:1234/Anh/film1family.png" group-title="Netherlands",NL: Film 1 Family
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16393
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Film Europe INT FHD" tvg-logo="" group-title="Netherlands",NL: Film Europe INT FHD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/31382
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Film1 Premiere" tvg-logo="http://iptvreseller.xyz:1234/Anh/film1premiere.png" group-title="Netherlands",NL: Film1 Premiere
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3923
+#EXTINF:-1 tvg-ID="film1premiere.nl" tvg-name="NL: Film1 Premiere FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/film1premiere.png" group-title="Netherlands",NL: Film1 Premiere FHD 1080
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/5647
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Film1 SUNDANCE" tvg-logo="http://iptvreseller.xyz:1234/Anh/Film1SUNDANCE.png" group-title="Netherlands",NL: Film1 SUNDANCE
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3921
+#EXTINF:-1 tvg-ID="foodnetwork.nl" tvg-name="NL: Food Network" tvg-logo="http://iptvreseller.xyz:1234/Anh/foodnetwork.png" group-title="Netherlands",NL: Food Network
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17636
+#EXTINF:-1 tvg-ID="foxsports1.nl" tvg-name="NL: Fox Sports 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports1.png" group-title="Netherlands",NL: Fox Sports 1
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/157
+#EXTINF:-1 tvg-ID="foxsports1.nl" tvg-name="NL: FOX Sports 1 FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports1hd.png" group-title="Netherlands",NL: FOX Sports 1 FHD 1080
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/5644
+#EXTINF:-1 tvg-ID="foxsports2.nl" tvg-name="NL: Fox Sports 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports2.png" group-title="Netherlands",NL: Fox Sports 2
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/156
+#EXTINF:-1 tvg-ID="foxsports2.nl" tvg-name="NL: FOX Sports 2 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports2hd.png" group-title="Netherlands",NL: FOX Sports 2 HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/5645
+#EXTINF:-1 tvg-ID="foxsports3.nl" tvg-name="NL: Fox Sports 3" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports3.png" group-title="Netherlands",NL: Fox Sports 3
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/155
+#EXTINF:-1 tvg-ID="foxsports3.nl" tvg-name="NL: FOX Sports 3 HD ( 1080P )" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports3.png" group-title="Netherlands",NL: FOX Sports 3 HD ( 1080P )
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/7474
+#EXTINF:-1 tvg-ID="foxsports4.nl" tvg-name="NL: Fox Sports 4" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports4.png" group-title="Netherlands",NL: Fox Sports 4
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/154
+#EXTINF:-1 tvg-ID="foxsports4.nl" tvg-name="NL: Fox Sports 4 HD ( 1080P )" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports4hd.png" group-title="Netherlands",NL: Fox Sports 4 HD ( 1080P )
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/7475
+#EXTINF:-1 tvg-ID="foxsports5.nl" tvg-name="NL: Fox Sports 5" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports5.png" group-title="Netherlands",NL: Fox Sports 5
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/153
+#EXTINF:-1 tvg-ID="foxsports5.nl" tvg-name="NL: Fox Sports 5 HD ( 1080P )" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports5.png" group-title="Netherlands",NL: Fox Sports 5 HD ( 1080P )
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/7476
+#EXTINF:-1 tvg-ID="foxsports6.nl" tvg-name="NL: Fox Sports 6" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports6.png" group-title="Netherlands",NL: Fox Sports 6
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/152
+#EXTINF:-1 tvg-ID="" tvg-name="NL: HBO2" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo2.png" group-title="Netherlands",NL: HBO2
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3918
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Horse & Country TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/horseandcountry.png" group-title="Netherlands",NL: Horse & Country TV
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17635
+#EXTINF:-1 tvg-ID="investigationdiscovery.nl" tvg-name="NL: Investigation Discovery" tvg-logo="http://iptvreseller.xyz:1234/Anh/investigationdiscovery.png" group-title="Netherlands",NL: Investigation Discovery
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3915
+#EXTINF:-1 tvg-ID="jimjam.nl" tvg-name="NL: JimJam" tvg-logo="http://iptvreseller.xyz:1234/Anh/jimjam.png" group-title="Netherlands",NL: JimJam
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3914
+#EXTINF:-1 tvg-ID="ketnet.nl" tvg-name="NL: Ketnet HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ketnet.png" group-title="Netherlands",NL: Ketnet HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17768
+#EXTINF:-1 tvg-ID="motorsporttv.nl" tvg-name="NL: Motors TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/motorstv.png" group-title="Netherlands",NL: Motors TV
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17631
+#EXTINF:-1 tvg-ID="MTV.nl" tvg-name="NL: MTV HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/mtv.png" group-title="Netherlands",NL: MTV HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17763
+#EXTINF:-1 tvg-ID="mtvmusic24.nl" tvg-name="NL: MTV Music 24" tvg-logo="http://iptvreseller.xyz:1234/Anh/mtvmusic.png" group-title="Netherlands",NL: MTV Music 24
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17765
+#EXTINF:-1 tvg-ID="natgeowild.nl" tvg-name="NL: Nat Geo Wild FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeowild.png" group-title="Netherlands",NL: Nat Geo Wild FHD 1080
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/5653
+#EXTINF:-1 tvg-ID="natgeowild.nl" tvg-name="NL: Nat Geo Wild HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeowildhd.png" group-title="Netherlands",NL: Nat Geo Wild HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16148
+#EXTINF:-1 tvg-ID="natgeo.nl" tvg-name="NL: National Geographic FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/nationalgeographichd.png" group-title="Netherlands",NL: National Geographic FHD 1080
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/5652
+#EXTINF:-1 tvg-ID="net5.nl" tvg-name="NL: NET 5" tvg-logo="http://iptvreseller.xyz:1234/Anh/net5.png" group-title="Netherlands",NL: NET 5
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3913
+#EXTINF:-1 tvg-ID="net5.nl" tvg-name="NL: Net 5 FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/net5.png" group-title="Netherlands",NL: Net 5 FHD 1080
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/5649
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Nick Hits" tvg-logo="http://iptvreseller.xyz:1234/Anh/nickhits.png" group-title="Netherlands",NL: Nick Hits
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17629
+#EXTINF:-1 tvg-ID="nicktoons.nl" tvg-name="NL: Nicktoons" tvg-logo="http://iptvreseller.xyz:1234/Anh/nicktoons.png" group-title="Netherlands",NL: Nicktoons
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16520
+#EXTINF:-1 tvg-ID="" tvg-name="NL: NPO 1 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/npo1.png" group-title="Netherlands",NL: NPO 1 FHD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/26878
+#EXTINF:-1 tvg-ID="npo1.nl" tvg-name="NL: NPO 1 HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/npo1.png" group-title="Netherlands",NL: NPO 1 HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/5447
+#EXTINF:-1 tvg-ID="npo2.nl" tvg-name="NL: NPO 2 FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/npo2.png" group-title="Netherlands",NL: NPO 2 FHD 1080
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/5448
+#EXTINF:-1 tvg-ID="npo3.nl" tvg-name="NL: NPO 3" tvg-logo="http://iptvreseller.xyz:1234/Anh/npo3.png" group-title="Netherlands",NL: NPO 3
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3907
+#EXTINF:-1 tvg-ID="npo3.nl" tvg-name="NL: NPO 3 FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/npo3.png" group-title="Netherlands",NL: NPO 3 FHD 1080
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/5449
+#EXTINF:-1 tvg-ID="npopolitiek.nl" tvg-name="NL: NPO Politiek" tvg-logo="http://iptvreseller.xyz:1234/Anh/npopolitiek.png" group-title="Netherlands",NL: NPO Politiek
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/8952
+#EXTINF:-1 tvg-ID="npozappxtra.nl" tvg-name="NL: NPO Zapp Xtra" tvg-logo="http://iptvreseller.xyz:1234/Anh/NPOZappXtra.png" group-title="Netherlands",NL: NPO Zapp Xtra
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/8951
+#EXTINF:-1 tvg-ID="Omroep Brabant NL" tvg-name="NL: Omroep Brabant" tvg-logo="http://iptvreseller.xyz:1234/Anh/omroepbrabant.png" group-title="Netherlands",NL: Omroep Brabant
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17739
+#EXTINF:-1 tvg-ID="Omroep Flevoland NL" tvg-name="NL: Omroep Flevoland" tvg-logo="http://iptvreseller.xyz:1234/Anh/omroepflevoland.png" group-title="Netherlands",NL: Omroep Flevoland
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17738
+#EXTINF:-1 tvg-ID="Omrop Fryslan NL" tvg-name="NL: Omroep Fryslan" tvg-logo="http://iptvreseller.xyz:1234/Anh/OmroepFryslan.png" group-title="Netherlands",NL: Omroep Fryslan
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17737
+#EXTINF:-1 tvg-ID="Omroep Gelderland NL" tvg-name="NL: Omroep Gelderland" tvg-logo="http://iptvreseller.xyz:1234/Anh/omroepgelderland.png" group-title="Netherlands",NL: Omroep Gelderland
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17736
+#EXTINF:-1 tvg-ID="Omroep Brabant NL" tvg-name="NL: Omroep Zeeland" tvg-logo="http://iptvreseller.xyz:1234/Anh/omroepzeeland.png" group-title="Netherlands",NL: Omroep Zeeland
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17740
+#EXTINF:-1 tvg-ID="rtl4.nl" tvg-name="NL: RTL 4" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtl4.png" group-title="Netherlands",NL: RTL 4
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3905
+#EXTINF:-1 tvg-ID="rtl4.nl" tvg-name="NL: RTL 4 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtl4.png" group-title="Netherlands",NL: RTL 4 FHD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/5450
+#EXTINF:-1 tvg-ID="rtl5.nl" tvg-name="NL: RTL 5 FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtl5.png" group-title="Netherlands",NL: RTL 5 FHD 1080
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/5451
+#EXTINF:-1 tvg-ID="rtl7.nl" tvg-name="NL: RTL 7 FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtl7.png" group-title="Netherlands",NL: RTL 7 FHD 1080
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/5454
+#EXTINF:-1 tvg-ID="rtl8.nl" tvg-name="NL: RTL 8 FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtl8.png" group-title="Netherlands",NL: RTL 8 FHD 1080
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/5455
+#EXTINF:-1 tvg-ID="rtlcrime.nl" tvg-name="NL: RTL Crime" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtlcrime.png" group-title="Netherlands",NL: RTL Crime
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17495
+#EXTINF:-1 tvg-ID="rtllounge.nl" tvg-name="NL: RTL lounge" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtllounge.png" group-title="Netherlands",NL: RTL lounge
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3901
+#EXTINF:-1 tvg-ID="rtltelekids.nl" tvg-name="NL: RTL Telekids" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtltelekids.png" group-title="Netherlands",NL: RTL Telekids
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17630
+#EXTINF:-1 tvg-ID="rtlz.nl" tvg-name="NL: RTL Z" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtlz.png" group-title="Netherlands",NL: RTL Z
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/8378
+#EXTINF:-1 tvg-ID="rtv7.nl" tvg-name="NL: RTV 7" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtv7.png" group-title="Netherlands",NL: RTV 7
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17639
+#EXTINF:-1 tvg-ID="RTV Drenthe NL" tvg-name="NL: RTV DRENTHE" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtvdrenthe.png" group-title="Netherlands",NL: RTV DRENTHE
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17757
+#EXTINF:-1 tvg-ID="RTV Noord NL" tvg-name="NL: RTV Noord" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtvnoord.png" group-title="Netherlands",NL: RTV Noord
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17758
+#EXTINF:-1 tvg-ID="RTV Oost" tvg-name="NL: RTV OOST" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtvoost.png" group-title="Netherlands",NL: RTV OOST
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/19526
+#EXTINF:-1 tvg-ID="" tvg-name="NL: RTV Utrecht" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtvutrecht.png" group-title="Netherlands",NL: RTV Utrecht
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17741
+#EXTINF:-1 tvg-ID="sbs6.nl" tvg-name="NL: SBS 6" tvg-logo="http://iptvreseller.xyz:1234/Anh/sbs6.png" group-title="Netherlands",NL: SBS 6
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3900
+#EXTINF:-1 tvg-ID="sbs9.nl" tvg-name="NL: SBS 9" tvg-logo="http://iptvreseller.xyz:1234/Anh/sbs9.png" group-title="Netherlands",NL: SBS 9
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3899
+#EXTINF:-1 tvg-ID="sbs6.nl" tvg-name="NL: SBS6 FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/sbs6.png" group-title="Netherlands",NL: SBS6 FHD 1080
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/5648
+#EXTINF:-1 tvg-ID="slam.nl" tvg-name="NL: Slam" tvg-logo="http://iptvreseller.xyz:1234/Anh/slamtv.png" group-title="Netherlands",NL: Slam
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17760
+#EXTINF:-1 tvg-ID="spike.nl" tvg-name="NL: Spike HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/spike.png" group-title="Netherlands",NL: Spike HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17638
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Sport 1 Voetbal" tvg-logo="http://iptvreseller.xyz:1234/Anh/sport1-duslelaslu.png" group-title="Netherlands",NL: Sport 1 Voetbal
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/150
+#EXTINF:-1 tvg-ID="tlc.nl" tvg-name="NL: TLC" tvg-logo="http://iptvreseller.xyz:1234/Anh/tlc.png" group-title="Netherlands",NL: TLC
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3897
+#EXTINF:-1 tvg-ID="travelchannel.nl" tvg-name="NL: Travel Channel HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/travelchannel.png" group-title="Netherlands",NL: Travel Channel HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/16149
+#EXTINF:-1 tvg-ID="tvoost.nl" tvg-name="NL: TV Oost" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtvoost.png" group-title="Netherlands",NL: TV Oost
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17742
+#EXTINF:-1 tvg-ID="tvoranje.nl" tvg-name="NL: TV Oranje" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvoranje.png" group-title="Netherlands",NL: TV Oranje
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17761
+#EXTINF:-1 tvg-ID="tv538.nl" tvg-name="NL: TV538" tvg-logo="http://iptvreseller.xyz:1234/Anh/TV538.png" group-title="Netherlands",NL: TV538
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17767
+#EXTINF:-1 tvg-ID="" tvg-name="NL: Veronica / Disney XD" tvg-logo="http://iptvreseller.xyz:1234/Anh/veronica.png" group-title="Netherlands",NL: Veronica / Disney XD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/19212
+#EXTINF:-1 tvg-ID="veronicadisneyxd.nl" tvg-name="NL: Veronica / Disney XD FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyxdhd.png" group-title="Netherlands",NL: Veronica / Disney XD FHD 1080
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/5453
+#EXTINF:-1 tvg-ID="viceland.nl" tvg-name="NL: ViceLand HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/viceland.png" group-title="Netherlands",NL: ViceLand HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17637
+#EXTINF:-1 tvg-ID="xite.nl" tvg-name="NL: XITE HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/xite.png" group-title="Netherlands",NL: XITE HD
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17759
+#EXTINF:-1 tvg-ID="ziggosportextra1.nl" tvg-name="NL: Ziggo Sport Extra1" tvg-logo="http://iptvreseller.xyz:1234/Anh/ziggosportextra1.png" group-title="Netherlands",NL: Ziggo Sport Extra1
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3895
+#EXTINF:-1 tvg-ID="ziggosportracing.nl" tvg-name="NL: Ziggo Sport Racing" tvg-logo="http://iptvreseller.xyz:1234/Anh/ziggosport.png" group-title="Netherlands",NL: Ziggo Sport Racing
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/3890
+#EXTINF:-1 tvg-ID="ziggosportselect.nl" tvg-name="NL: Ziggo Sport Select FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/ziggosport.png" group-title="Netherlands",NL: Ziggo Sport Select FHD 1080
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/5452
+#EXTINF:-1 tvg-ID="ziggotv.nl" tvg-name="NL: Ziggo TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/ziggo.png" group-title="Netherlands",NL: Ziggo TV
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/17628
+#EXTINF:-1 tvg-ID="" tvg-name="NOR: SVT1" tvg-logo="" group-title="",NOR: SVT1
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/7504
+#EXTINF:-1 tvg-ID="" tvg-name="Nordic | VIASAT Sport" tvg-logo="" group-title="Sport",Nordic | VIASAT Sport
+http://iptv-line.com:6969/taodo/OHjLoHxtzO/2446
+
