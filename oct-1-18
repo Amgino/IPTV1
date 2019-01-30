@@ -1,79 +1,189 @@
 #EXTM3U
-#EXTINF:-1,NL: Animal Planet
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/2717
-#EXTINF:-1,NL: Bbc.Entertainment
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/5712
-#EXTINF:-1,NL: Comedy Central
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/2716
-#EXTINF:-1,NL: Discovery
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/5710
-#EXTINF:-1,NL: EuroSport 1
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/5707
-#EXTINF:-1,NL: Film Action
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/1695
-#EXTINF:-1,NL: Film Drama
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/2715
-#EXTINF:-1,NL: Film Family
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/1694
-#EXTINF:-1,NL: Film Premiere
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/1693
-#EXTINF:-1,NL: Film Sundance
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/2714
-#EXTINF:-1,NL: Fox
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/1692
-#EXTINF:-1,NL: Investigation Discovery
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/5706
-#EXTINF:-1,NL: JimJam
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/5703
-#EXTINF:-1,NL: National Geographic
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/5704
-#EXTINF:-1,NL: Net_5
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/5694
-#EXTINF:-1,NL: Nick Toons
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/5702
-#EXTINF:-1,NL: Nickelodeon
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/5705
-#EXTINF:-1,NL: NickJr
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/2718
-#EXTINF:-1,NL: Npo 1
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/2708
-#EXTINF:-1,NL: Npo 2
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/2709
-#EXTINF:-1,NL: Npo 3
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/2710
-#EXTINF:-1,NL: Npo Politiek
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/2719
-#EXTINF:-1,NL: Npo Zapp/Best
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/5700
-#EXTINF:-1,NL: RTL_4
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/1689
-#EXTINF:-1,NL: RTL_5
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/1690
-#EXTINF:-1,NL: RTL 7
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/1691
-#EXTINF:-1,NL: RTL_Crime
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/5701
-#EXTINF:-1,NL: RTL_Lounge
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/1687
-#EXTINF:-1,NL: RTL_Telekids
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/5699
-#EXTINF:-1,NL: RTL_Z
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/1688
-#EXTINF:-1,NL: Sbs 6
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/2712
-#EXTINF:-1,NL: Sbs 9
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/2711
-#EXTINF:-1,NL: TLC
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/2713
-#EXTINF:-1,NL: Ziggo eXtra 1
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/5698
-#EXTINF:-1,NL: Ziggo eXtra 2
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/5697
-#EXTINF:-1,NL: Ziggo Golf
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/5696
-#EXTINF:-1,NL: Ziggo Racing
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/5695
-#EXTINF:-1,NL: Ziggo Select
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/5693
-#EXTINF:-1,NL: Ziggo Voetbal
-http://ultraiptv.online:80/cGdT/0qBIxq1DVB/5692
+#EXTINF:-1,NPO 1 HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/305
+#EXTINF:-1,NPO 1 FHD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/364
+#EXTINF:-1,NPO 2 HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/304
+#EXTINF:-1,NPO 2 FHD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/363
+#EXTINF:-1,NPO 3 HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/303
+#EXTINF:-1,NPO 3 FHD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/362
+#EXTINF:-1,RTL 4 HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/295
+#EXTINF:-1,RTL 4 FHD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/361
+#EXTINF:-1,RTL 5 HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/294
+#EXTINF:-1,RTL 5 FHD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/360
+#EXTINF:-1,SBS6 HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/288
+#EXTINF:-1,SBS6 FHD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/357
+#EXTINF:-1,RTL 7 HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/293
+#EXTINF:-1,RTL 7 FHD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/359
+#EXTINF:-1,RTL 8 HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/292
+#EXTINF:-1,RTL 8 FHD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/358
+#EXTINF:-1,SBS9 NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/289
+#EXTINF:-1,RTL Z NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/290
+#EXTINF:-1,Veronica / DisneyXD HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/249
+#EXTINF:-1,Veronica / Disney XD FHD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/6513
+#EXTINF:-1,Net5 HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/355
+#EXTINF:-1,NET5 FHD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/260
+#EXTINF:-1,RTL Crime NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/297
+#EXTINF:-1,RTL Lounge NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/291
+#EXTINF:-1,NPO 101 NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/300
+#EXTINF:-1,TLC NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/286
+#EXTINF:-1,TLC HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/11090
+#EXTINF:-1,TLC FHD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/6811
+#EXTINF:-1,TV Oranje NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/285
+#EXTINF:-1,Stingray iConcerts NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/229
+#EXTINF:-1,NPO Humor TV NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/298
+#EXTINF:-1,NPO Politiek NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/302
+#EXTINF:-1,NPO Best/Zapp Xtra NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/301
+#EXTINF:-1,National Geographic HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/258
+#EXTINF:-1,National Geographic FHD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/6849
+#EXTINF:-1,Nat Geo Wild HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/257
+#EXTINF:-1,Nat Geo Wild FHD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/4393
+#EXTINF:-1,Baby TV NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/247
+#EXTINF:-1,Baby TV [Multi-Audio] NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/22363
+#EXTINF:-1,JimJam NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/250
+#EXTINF:-1,Nick Jr. NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/256
+#EXTINF:-1,Nick Toons NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/255
+#EXTINF:-1,Nickelodeon / Spike Channel NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/251
+#EXTINF:-1,Cartoon Network NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/253
+#EXTINF:-1,Boomerang NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/252
+#EXTINF:-1,Disney Channel NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/254
+#EXTINF:-1,Disney Junior NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/4521
+#EXTINF:-1,Pebble HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/4501
+#EXTINF:-1,RTL Telekids NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/4522
+#EXTINF:-1,Comedy Central NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/270
+#EXTINF:-1,Comedy Central Extra NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/271
+#EXTINF:-1,ONS NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/296
+#EXTINF:-1,FOX NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/275
+#EXTINF:-1,History HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/265
+#EXTINF:-1,History FHD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/4519
+#EXTINF:-1,Investigation Discovery NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/263
+#EXTINF:-1,L1 TV NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/268
+#EXTINF:-1,Viceland HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/287
+#EXTINF:-1,192TV NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/230
+#EXTINF:-1,24 Kitchen NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/267
+#EXTINF:-1,AT5 NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/283
+#EXTINF:-1,Animal Planet NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/266
+#EXTINF:-1,Crime+Investigation NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/262
+#EXTINF:-1,Discovery Channel NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/264
+#EXTINF:-1,Discovery Channel HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/6812
+#EXTINF:-1,Investigation Discovery FHD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/6512
+#EXTINF:-1,Discovery Showcase HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/261
+#EXTINF:-1,Discovery Showcase FHD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/6853
+#EXTINF:-1,Stringray Djazz FHD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/228
+#EXTINF:-1,Duck TV NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/248
+#EXTINF:-1,E! NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/282
+#EXTINF:-1,Film1 Action NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/280
+#EXTINF:-1,Film1 Family NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/279
+#EXTINF:-1,Film1 Premiere HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/278
+#EXTINF:-1,Film1 Premiere FHD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/356
+#EXTINF:-1,Film1 Drama HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/277
+#EXTINF:-1,Film1 Sundance NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/276
+#EXTINF:-1,Film1 Family HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/4529
+#EXTINF:-1,Look TV NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/272
+#EXTINF:-1,Animal Planet HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/4518
+#EXTINF:-1,Animal Planet FHD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/6813
+#EXTINF:-1,BBC Entertainment NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/4517
+#EXTINF:-1,Feel Good TV NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/4487
+#EXTINF:-1,EDE TV NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/4510
+#EXTINF:-1,Omroep Flevoland NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/4488
+#EXTINF:-1,Omrop Fryslân NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/4489
+#EXTINF:-1,RTV Rijnmond NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/4490
+#EXTINF:-1,RTV Totaal NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/7429
+#EXTINF:-1,MTV NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/4527
+#EXTINF:-1,MTV HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/4526
+#EXTINF:-1,MTV Music 24 NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/4525
+#EXTINF:-1,Out TV HD NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/4496
+#EXTINF:-1,NPO FunX NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/4516
+#EXTINF:-1,RTV Utrecht NL
+http://restream.geniptv.com:8080/iptvred/54t5g54efVCD/4494
